@@ -19,7 +19,7 @@
       "en": "Drink lemon water,\nDrink birch tea,\nConsume corn oil,\nExercise",
       "ru": "Пить воду с лимоном,\nПить чай из берёзы,\nУпотреблять кукурузное масло,\nФизическая активность"
     },
-    "image": "vector_high_blood_pressure",
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/diseases/images/high_blood_pressure.png",
     "duration": {
       "az": "Həyat boyu izləmə",
       "tr": "Hayat boyu takip",
@@ -47,7 +47,7 @@
       "en": "Drink plenty of water,\nEat salty foods,\nDrink coffee or tea,\nEat small frequent meals",
       "ru": "Пить много воды,\nЕсть солёные продукты,\nПить кофе или чай,\nЕсть маленькими порциями часто"
     },
-    "image": "vector_low_blood_pressure",
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/diseases/images/low_blood_pressure.png",
     "duration": {
       "az": "Bir neçə saatdan bir neçə günə qədər",
       "tr": "Birkaç saatten birkaç güne kadar",
@@ -75,7 +75,7 @@
       "en": "Drink warm milk,\nUse lavender oil,\nDrink chamomile tea,\nExercise,\nConsume melatonin-supporting foods,\nTake warm baths,\nAvoid stress,\nCreate good sleep habits",
       "ru": "Пить тёплое молоко,\nИспользовать лавандовое масло,\nПить чай из ромашки,\nФизическая активность,\nПринимать продукты с мелатонином,\nТёплая ванна,\nИзбегать стресса,\nСоздавать хорошие привычки сна"
     },
-    "image": "vector_insomnia",
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/diseases/images/insomnia.png",
     "duration": {
       "az": "Bir neçə gündən bir neçə həftəyə qədər",
       "tr": "Birkaç günden birkaç haftaya kadar",
@@ -103,7 +103,7 @@
       "en": "Drink ginger,\nDrink lemon water,\nDrink mint tea,\nDrink chamomile tea,\nDaily light walks,\nDrink water,\nEat slowly,\nSpend time in sunlight",
       "ru": "Пить имбирь,\nПить воду с лимоном,\nПить мятный чай,\nПить чай из ромашки,\nЛёгкие прогулки ежедневно,\nПить воду,\nЕсть медленно,\nПроводить время на солнце"
     },
-    "image": "vector_nausea",
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/diseases/images/nausea.png",
     "duration": {
       "az": "Bir neçə saatdan bir neçə günə qədər davam edə bilər",
       "tr": "Birkaç saatten birkaç güne kadar sürebilir",
@@ -131,7 +131,7 @@
       "en": "Use cold compress,\nDrink warm soup and herbal teas,\nDrink water,\nEncourage sweating,\nEat fruits and vegetables,\nRest,\nTake cool baths,\nBe in fresh air",
       "ru": "Использовать холодный компресс,\nПить тёплый суп и травяные чаи,\nПить воду,\nСтимулировать потоотделение,\nЕсть фрукты и овощи,\nОтдых,\nПринимать прохладные ванны,\nНаходиться на свежем воздухе"
     },
-    "image": "vector_fever",
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/diseases/images/fever.png",
     "duration": {
       "az": "Bir neçə saatdan bir neçə günə qədər davam edə bilər",
       "tr": "Birkaç saatten birkaç güne kadar sürebilir",
@@ -159,7 +159,7 @@
       "en": "Eat high-fiber foods,\ndrink plenty of water,\nexercise,\nconsume natural fruits and vegetables,\ndrink olive oil and lemon juice,\nuse probiotics,\ndrink warm water,\ndrink herbal teas",
       "ru": "Есть продукты с высоким содержанием клетчатки,\nпить много воды,\nзаниматься физической активностью,\nупотреблять фрукты и овощи,\nпить оливковое масло и лимонный сок,\nиспользовать пробиотики,\nпить тёплую воду,\nпить травяные чаи"
     },
-    "image": "vector_constipation",
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/diseases/images/constipation.png",
     "duration": {
       "az": "2-3 gün",
       "tr": "2-3 gün",
@@ -187,7 +187,7 @@
       "en": "Drink plenty of water,\neat dry foods,\nuse probiotics,\ndrink olive oil,\ndrink herbal teas,\ndrink coconut water,\neat light meals,\nconsume black bread and flax seeds",
       "ru": "Пить много воды,\nесть сухие продукты,\nиспользовать пробиотики,\nпить оливковое масло,\nпить травяные чаи,\nпить кокосовую воду,\nесть легкую пищу,\nупотреблять черный хлеб и семена льна"
     },
-    "image": "vector_diarrhea",
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/diseases/images/diarrhea.png",
     "duration": {
       "az": "1-2 gün",
       "tr": "1-2 gün",
@@ -215,7 +215,7 @@
       "en": "Nasal rinse with warm saline,\nwarm steam,\nnasal spray,\ndrink plenty of fluids,\nkeep head elevated",
       "ru": "Промывание носа теплым солевым раствором,\nтёплый пар,\nназальный спрей,\nпить много жидкости,\nдержать голову приподнятой"
     },
-    "image": "vector_nasal_congestion",
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/diseases/images/nasal_congestion.png",
     "duration": {
       "az": "1-2 gün",
       "tr": "1-2 gün",
@@ -243,7 +243,7 @@
       "en": "Apply moisturizing cream or lotion,\nUse cold compress,\nUse natural oils (e.g., aloe vera)",
       "ru": "Наносить увлажняющий крем или лосьон,\nПрикладывать холодный компресс,\nИспользовать натуральные масла (например: алоэ вера)"
     },
-    "image": "vector_body_itching",
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/diseases/images/body_itching.png",
     "duration": {
       "az": "Bir neçə gündən bir neçə həftəyə qədər",
       "tr": "Birkaç günden birkaç haftaya kadar",
@@ -271,7 +271,7 @@
       "en": "Rinse tooth with cold water,\nApply cold compress to painful area,\nUse painkillers (paracetamol) for toothache",
       "ru": "Полоскать зуб холодной водой,\nПрикладывать холодный компресс к больному участку,\nИспользовать обезболивающие (парацетамол)"
     },
-    "image": "vector_toothache",
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/diseases/images/toothache.png",
     "duration": {
       "az": "Bir neçə saatdan bir neçə günə qədər",
       "tr": "Birkaç saatten birkaç güne kadar",
@@ -299,7 +299,7 @@
       "en": "Drink plenty of fluids,\nRest,\nUse cold compress,\nGargle throat with salt water,\nUse natural honey and lemon for cough",
       "ru": "Пить много жидкости,\nОтдыхать,\nПрикладывать холодный компресс,\nПолоскать горло соленой водой,\nИспользовать мед и лимон при кашле"
     },
-    "image": "vector_common_cold",
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/diseases/images/common_cold.png",
     "duration": {
       "az": "Bir neçə gündən bir neçə həftəyə qədər",
       "tr": "Birkaç günden birkaç haftaya kadar",
@@ -327,7 +327,7 @@
       "en": "Wash wound with clean water,\nClean with antiseptic,\nCover with bandage,\nSeek medical help if necessary",
       "ru": "Промывать рану чистой водой,\nОбрабатывать антисептиком,\nЗакрыть повязкой,\nПри необходимости обратиться за медицинской помощью"
     },
-    "image": "vector_wounds",
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/diseases/images/wounds.png",
     "duration": {
       "az": "Bir neçə gündən bir neçə həftəyə qədər",
       "tr": "Birkaç günden birkaç haftaya kadar",
@@ -355,7 +355,7 @@
       "en": "Avoid painkillers (paracetamol),\nDrink more water,\nEat healthy,\nAvoid alcohol and smoking,\nConsult a doctor",
       "ru": "Не использовать обезболивающие (парацетамол),\nПить больше воды,\nПравильно питаться,\nИзбегать алкоголя и курения,\nОбратиться к врачу"
     },
-    "image": "vector_liver_pain",
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/diseases/images/liver_pain.png",
     "duration": {
       "az": "Bir neçə saatdan bir neçə günə qədər",
       "tr": "Birkaç saatten birkaç güne kadar",
@@ -383,7 +383,7 @@
       "en": "Drink plenty of water,\nApply warm compress to painful area,\nAvoid salty and fatty foods,\nConsult doctor to monitor kidney function",
       "ru": "Пить много воды,\nПрикладывать тёплый компресс к больной области,\nИзбегать солёной и жирной пищи,\nОбратиться к врачу для контроля функции почек"
     },
-    "image": "vector_kidney_pain",
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/diseases/images/kidney_pain.png",
     "duration": {
       "az": "Bir neçə saatdan bir neçə günə qədər",
       "tr": "Birkaç saatten birkaç güne kadar",
@@ -411,7 +411,7 @@
       "en": "Gargle with warm water,\nGargle with salt water,\nDrink honey and lemon water to moisten throat,\nAvoid hot drinks",
       "ru": "Полоскать тёплой водой,\nПолоскать солёной водой,\nПить мед с лимоном для увлажнения горла,\nИзбегать горячих напитков"
     },
-    "image": "vector_throat_swelling",
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/diseases/images/throat_swelling.png",
     "duration": {
       "az": "Bir neçə saatdan bir neçə günə qədər",
       "tr": "Birkaç saatten birkaç güne kadar",
@@ -439,7 +439,7 @@
       "en": "Apply warm compress to ear,\nClean ear with warm water,\nUse painkillers (paracetamol),\nProtect ear from cold",
       "ru": "Прикладывать тёплый компресс к уху,\nЧистить ухо тёплой водой,\nИспользовать обезболивающее (парацетамол),\nЗащищать ухо от холода"
     },
-    "image": "vector_earache",
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/diseases/images/earache.png",
     "duration": {
       "az": "Bir neçə saatdan bir neçə günə qədər",
       "tr": "Birkaç saatten birkaç güne kadar",
@@ -467,7 +467,7 @@
       "en": "Wash face with warm water,\nUse moisturizer,\nApply cold compress to face,\nAvoid irritating substances",
       "ru": "Умываться тёплой водой,\nИспользовать увлажняющий крем,\nПрикладывать холодный компресс,\nИзбегать раздражающих веществ"
     },
-    "image": "vector_facial_rash",
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/diseases/images/facial_rash.png",
     "duration": {
       "az": "Bir neçə gündən bir neçə həftəyə qədər",
       "tr": "Birkaç günden birkaç haftaya kadar",
@@ -495,7 +495,7 @@
       "en": "Take deep breaths,\nRest,\nBe in a cool environment,\nUse painkillers (paracetamol)",
       "ru": "Глубоко дышать,\nОтдыхать,\nНаходиться в прохладной среде,\nИспользовать обезболивающие (парацетамол)"
     },
-    "image": "vector_chest_pain",
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/diseases/images/chest_pain.png",
     "duration": {
       "az": "Bir neçə gündən bir neçə həftəyə qədər",
       "tr": "Birkaç günden birkaç haftaya kadar",
@@ -523,7 +523,7 @@
       "en": "Sit or lie down slowly,\nDrink plenty of fluids,\nAdjust diet,\nAvoid stress",
       "ru": "Сесть или лечь медленно,\nПить много жидкости,\nРегулировать питание,\nИзбегать стресса"
     },
-    "image": "vector_dizziness",
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/diseases/images/dizziness.png",
     "duration": {
       "az": "Bir neçə dəqiqədən bir neçə saata qədər",
       "tr": "Birkaç dakikadan birkaç saate kadar",
@@ -551,7 +551,7 @@
       "en": "Eat small, frequent meals,\nFocus on fresh and tasty foods,\nDrink water,\nAvoid stress",
       "ru": "Есть маленькими порциями и часто,\nСосредоточиться на свежей и вкусной пище,\nПить воду,\nИзбегать стресса"
     },
-    "image": "vector_loss_of_appetite",
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/diseases/images/loss_of_appetite.png",
     "duration": {
       "az": "Bir neçə gündən bir neçə həftəyə qədər",
       "tr": "Birkaç günden birkaç haftaya kadar",
@@ -663,7 +663,7 @@
       "en": "Eat light, drink water, apply warm compress",
       "ru": "Легкая диета, пить воду, теплый компресс"
     },
-    "image": "vector_stomach_pain",
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/diseases/images/stomach_pain.png",
     "duration": {
       "az": "Qısa müddətli",
       "tr": "Kısa süreli",
