@@ -19,7 +19,7 @@
       "en": "Green tea, rich in antioxidants and beneficial compounds, has many positive effects on our health. From boosting mental activity to protecting heart health, green tea is an ideal part of the daily routine. It also aids weight loss, reduces cancer risk, and supports dental health.",
       "ru": "Зелёный чай, богатый антиоксидантами и полезными веществами, оказывает множество положительных эффектов на здоровье. От улучшения умственной активности до защиты сердца, зелёный чай является идеальной частью ежедневного рациона. Также помогает похудеть, снижает риск рака и поддерживает здоровье зубов."
     },
-    "image": "vector_green_tea"
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/health-data-/main/recommendations/images/green_tea.png"
   },
   {
     "id": 2,
@@ -41,7 +41,7 @@
       "en": "Water is one of the most essential substances for maintaining vital functions of the human body. Drinking enough water daily ensures proper cell function, improves blood circulation, and regulates body temperature. It helps eliminate toxins, improves skin elasticity, and supports the digestive system.",
       "ru": "Вода является одним из самых важных веществ для поддержания жизненно важных функций организма. Ежедневное употребление достаточного количества воды обеспечивает правильную работу клеток, улучшает кровообращение и регулирует температуру тела. Она помогает выводить токсины, улучшает эластичность кожи и поддерживает пищеварительную систему."
     },
-    "image": "vector_drinking_water"
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/health-data-/main/recommendations/images/drinking_water.png"
   },
   {
     "id": 3,
@@ -63,7 +63,7 @@
       "en": "Sunlight plays a crucial role in the body's synthesis of vitamin D, which is essential for bone health, immune system support, and mood improvement. Exposing yourself to sunlight for 15-20 minutes daily, especially in the morning or evening, is sufficient.",
       "ru": "Солнечный свет играет важную роль в синтезе витамина D в организме, который необходим для здоровья костей, поддержки иммунной системы и улучшения настроения. Достаточно 15-20 минут пребывания на солнце ежедневно, особенно утром или вечером."
     },
-    "image": "vector_sunlight"
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/health-data-/main/recommendations/images/sunlight.png"
   },
   {
     "id": 4,
@@ -85,7 +85,7 @@
       "en": "An apple is not only a tasty and easily available fruit but also contains many beneficial nutrients. Eating an apple daily helps reduce the risk of heart disease, regulate cholesterol, and stabilize blood sugar.",
       "ru": "Яблоко — это не только вкусный и легко доступный фрукт, но и содержит множество полезных веществ. Ежедневное употребление яблока помогает снизить риск сердечно-сосудистых заболеваний, регулировать уровень холестерина и стабилизировать уровень сахара в крови."
     },
-    "image": "vector_apple"
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/health-data-/main/recommendations/images/apple.png"
   },
   {
     "id": 5,
@@ -107,7 +107,7 @@
       "en": "Lemon water is not just a refreshing drink but also offers numerous health benefits. The high vitamin C content of lemons strengthens the immune system and helps the body fight infections.",
       "ru": "Лимонная вода — это не просто освежающий напиток, но и множество полезных для здоровья эффектов. Высокое содержание витамина C в лимонах укрепляет иммунную систему и помогает организму бороться с инфекциями."
     },
-    "image": "vector_lemon_water"
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/health-data-/main/recommendations/images/lemon_water.png"
   },
   {
     "id": 6,
@@ -129,7 +129,7 @@
       "en": "Honey is not only a natural source of sweetness but also rich in many health benefits. Honey has antibacterial properties and is traditionally used to soothe sore throats. Its strong antioxidants support cardiovascular health and help reduce cholesterol.",
       "ru": "Мёд — это не только естественный источник сладости, но и богатый множеством полезных свойств для здоровья. Мёд обладает антибактериальными свойствами и традиционно используется для облегчения боли в горле. Сильные антиоксиданты поддерживают сердечно-сосудистое здоровье и помогают снижать уровень холестерина."
     },
-    "image": "vector_honey"
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/health-data-/main/recommendations/images/honey.png"
   },
   {
     "id": 7,
@@ -151,7 +151,7 @@
       "en": "Ginger has been used as a natural remedy since ancient times. It has anti-inflammatory properties and reduces the body’s inflammation. Beneficial for the digestive system, ginger eases stomach discomfort and reduces nausea.",
       "ru": "Имбирь использовался как природное средство с древних времен. Он обладает противовоспалительными свойствами и снижает уровень воспаления в организме. Полезен для пищеварительной системы, облегчает желудочные расстройства и уменьшает тошноту."
     },
-    "image": "vector_ginger"
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/health-data-/main/recommendations/images/ginger.png"
   },
   {
     "id": 8,
@@ -173,7 +173,7 @@
       "en": "Oats are rich in fiber and complex carbohydrates. They help stabilize blood sugar and provide long-lasting satiety. The beta-glucan fiber in oats supports cardiovascular health and lowers cholesterol.",
       "ru": "Овёс богат клетчаткой и сложными углеводами. Он помогает стабилизировать уровень сахара в крови и обеспечивает долгое чувство сытости. Бета-глюкан в овсе поддерживает здоровье сердечно-сосудистой системы и снижает уровень холестерина."
     },
-    "image": "vector_oats"
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/health-data-/main/recommendations/images/oats.png"
   },
   {
     "id": 9,
@@ -195,7 +195,7 @@
       "en": "Chamomile tea calms nerves, improves sleep quality, and relieves digestive issues. Drinking one cup daily helps reduce stress and promotes overall health.",
       "ru": "Чай из ромашки успокаивает нервы, улучшает качество сна и облегчает проблемы с пищеварением. Ежедневное употребление одной чашки помогает снизить стресс и улучшить общее здоровье."
     },
-    "image": "vector_chamomile"
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/health-data-/main/recommendations/images/chamomile.png"
   },
   {
     "id": 10,
@@ -217,6 +217,6 @@
       "en": "Chia seeds are rich in omega-3 fatty acids, fiber, and protein. They improve digestion, regulate blood sugar, and provide long-lasting satiety. Adding a tablespoon daily offers significant health benefits.",
       "ru": "Семена чиа богаты омега-3 жирными кислотами, клетчаткой и белком. Они улучшают пищеварение, регулируют уровень сахара в крови и создают длительное чувство сытости. Ежедневное добавление одной столовой ложки приносит значительную пользу для здоровья."
     },
-    "image": "vector_chia_seeds"
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/health-data-/main/recommendations/images/chia_seeds.png"
   }
 ]
