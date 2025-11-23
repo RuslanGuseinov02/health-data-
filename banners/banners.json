@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "titleText": {
+      "az": "🌿 Sənin də reseptin var?",
+      "tr": "🌿 Senin de tarifin var mı?",
+      "en": "🌿 Do you have a recipe too?",
+      "ru": "🌿 У тебя тоже есть рецепт?"
+    },
+    "subTitleText": {
+      "az": "⚡️ Öz reseptini paylaş və başqalarının sağlam qalmasına kömək et.",
+      "tr": "⚡️ Kendi tarifini paylaş ve başkalarının sağlıklı kalmasına yardımcı ol.",
+      "en": "⚡️ Share your recipe and help others stay healthy.",
+      "ru": "⚡️ Поделись своим рецептом и помоги другим оставаться здоровыми."
+    },
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/banners/images/you_recipe.png"
+  }
+]
