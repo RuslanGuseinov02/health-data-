@@ -1,1 +1,222 @@
-
+[
+  {
+    "id": 1,
+    "title": {
+      "az": "Yaşıl çay içmək",
+      "tr": "Yeşil çay içmek",
+      "en": "Drinking Green Tea",
+      "ru": "Пить зелёный чай"
+    },
+    "subtitle": {
+      "az": "Yaşıl Çayın Sağlamlığa Faydaları: Zehni Fəaliyyətdən Ürək Sağlamlığına",
+      "tr": "Yeşil Çayın Sağlığa Faydaları: Zihinsel Aktiviteden Kalp Sağlığına",
+      "en": "Benefits of Green Tea for Health: From Mental Function to Heart Health",
+      "ru": "Польза зелёного чая для здоровья: от умственной деятельности до здоровья сердца"
+    },
+    "description": {
+      "az": "Yaşıl çay, zəngin antioksidant tərkibi və faydalı maddələri ilə sağlamlığımıza bir çox müsbət təsir göstərir. Zehni fəaliyyətimizi artırmaqdan tutmuş, ürək sağlamlığını qorumağa qədər, yaşıl çay hər gündəlik rutinin bir hissəsi olmaq üçün ideal içkidir. Bu içki həmçinin arıqlamağa kömək edir, xərçəng riskini azaldır və diş sağlamlığını gücləndirir.",
+      "tr": "Yeşil çay, zengin antioksidan içeriği ve faydalı bileşenleri ile sağlığımız üzerinde birçok olumlu etki sağlar. Zihinsel aktiviteyi artırmaktan kalp sağlığını korumaya kadar, yeşil çay günlük rutinin ideal bir parçasıdır. Ayrıca kilo vermeye yardımcı olur, kanser riskini azaltır ve diş sağlığını destekler.",
+      "en": "Green tea, rich in antioxidants and beneficial compounds, has many positive effects on our health. From boosting mental activity to protecting heart health, green tea is an ideal part of the daily routine. It also aids weight loss, reduces cancer risk, and supports dental health.",
+      "ru": "Зелёный чай, богатый антиоксидантами и полезными веществами, оказывает множество положительных эффектов на здоровье. От улучшения умственной активности до защиты сердца, зелёный чай является идеальной частью ежедневного рациона. Также помогает похудеть, снижает риск рака и поддерживает здоровье зубов."
+    },
+    "image": "vector_green_tea"
+  },
+  {
+    "id": 2,
+    "title": {
+      "az": "Su içmək",
+      "tr": "Su içmek",
+      "en": "Drinking Water",
+      "ru": "Пить воду"
+    },
+    "subtitle": {
+      "az": "Bədəndəki Orqanların Sağlam İşləməsi Üçün Ən Təbii Dəstək",
+      "tr": "Vücuttaki Organların Sağlıklı Çalışması İçin En Doğal Destek",
+      "en": "The Most Natural Support for Healthy Organ Function",
+      "ru": "Самая естественная поддержка для здоровья органов"
+    },
+    "description": {
+      "az": "Su, insan orqanizminin həyati funksiyalarını təmin edən ən vacib maddələrdən biridir. Hər gün kifayət qədər su içmək hüceyrələrin düzgün işləməsini təmin edir, qan dövranını yaxşılaşdırır və bədən istiliyini tənzimləyir. Su, toksinlərin orqanizmdən atılmasına kömək edir, dərinin elastikliyini artırır və həzm sistemini dəstəkləyir.",
+      "tr": "Su, insan vücudunun hayati fonksiyonlarını sağlayan en önemli maddelerden biridir. Her gün yeterli su içmek hücrelerin düzgün çalışmasını sağlar, kan dolaşımını iyileştirir ve vücut sıcaklığını düzenler. Su, toksinlerin vücuttan atılmasına yardımcı olur, cildin elastikiyetini artırır ve sindirim sistemini destekler.",
+      "en": "Water is one of the most essential substances for maintaining vital functions of the human body. Drinking enough water daily ensures proper cell function, improves blood circulation, and regulates body temperature. It helps eliminate toxins, improves skin elasticity, and supports the digestive system.",
+      "ru": "Вода является одним из самых важных веществ для поддержания жизненно важных функций организма. Ежедневное употребление достаточного количества воды обеспечивает правильную работу клеток, улучшает кровообращение и регулирует температуру тела. Она помогает выводить токсины, улучшает эластичность кожи и поддерживает пищеварительную систему."
+    },
+    "image": "vector_drinking_water"
+  },
+  {
+    "id": 3,
+    "title": {
+      "az": "Günəş işığından yetərincə faydalanmaq",
+      "tr": "Güneş ışığından yeterince faydalanmak",
+      "en": "Getting Enough Sunlight",
+      "ru": "Достаточное пребывание на солнце"
+    },
+    "subtitle": {
+      "az": "Sağlamlıq Üçün Günəşin Əhəmiyyəti və Təsirləri",
+      "tr": "Sağlık İçin Güneşin Önemi ve Etkileri",
+      "en": "The Importance and Effects of Sunlight on Health",
+      "ru": "Важность и влияние солнечного света на здоровье"
+    },
+    "description": {
+      "az": "Günəş işığı orqanizmin D vitamini sintezində mühüm rol oynayır. D vitamini sümük sağlamlığını qorumaq, immun sistemini gücləndirmək və əhval-ruhiyyəni yaxşılaşdırmaq üçün vacibdir. Hər gün 15-20 dəqiqə təmiz havada, xüsusilə səhər və ya axşam saatlarında günəşə məruz qalmaq kifayət edir.",
+      "tr": "Güneş ışığı vücudun D vitamini sentezinde önemli bir rol oynar. D vitamini, kemik sağlığını korumak, bağışıklık sistemini güçlendirmek ve ruh halini iyileştirmek için önemlidir. Her gün 15-20 dakika temiz havada, özellikle sabah veya akşam güneşe maruz kalmak yeterlidir.",
+      "en": "Sunlight plays a crucial role in the body's synthesis of vitamin D, which is essential for bone health, immune system support, and mood improvement. Exposing yourself to sunlight for 15-20 minutes daily, especially in the morning or evening, is sufficient.",
+      "ru": "Солнечный свет играет важную роль в синтезе витамина D в организме, который необходим для здоровья костей, поддержки иммунной системы и улучшения настроения. Достаточно 15-20 минут пребывания на солнце ежедневно, особенно утром или вечером."
+    },
+    "image": "vector_sunlight"
+  },
+  {
+    "id": 4,
+    "title": {
+      "az": "Hər gün bir alma yemək",
+      "tr": "Her gün bir elma yemek",
+      "en": "Eating an Apple Every Day",
+      "ru": "Есть яблоко каждый день"
+    },
+    "subtitle": {
+      "az": "Almanın Dərin Sağlamlıq Təsiri və Bədənimizə Gözəgörünməz Yardımı",
+      "tr": "Elmanın Derin Sağlık Etkisi ve Vücudumuza Görünmez Yardımı",
+      "en": "The Deep Health Impact of Apples and Their Invisible Support for the Body",
+      "ru": "Глубокое влияние яблок на здоровье и их невидимая поддержка организма"
+    },
+    "description": {
+      "az": "Alma təkcə dadlı və asan tapılan bir meyvə deyil, həm də bədən üçün çox sayda faydalı maddələr ehtiva edir. Gündə bir alma yemək ürək xəstəlikləri riskini azaltmağa, xolesterolu tənzimləməyə və qan şəkərinin stabilləşməsinə kömək edir.",
+      "tr": "Elma sadece lezzetli ve kolay bulunan bir meyve değil, aynı zamanda vücut için birçok faydalı madde içerir. Her gün bir elma yemek, kalp hastalığı riskini azaltmaya, kolesterolü düzenlemeye ve kan şekerini dengelemeye yardımcı olur.",
+      "en": "An apple is not only a tasty and easily available fruit but also contains many beneficial nutrients. Eating an apple daily helps reduce the risk of heart disease, regulate cholesterol, and stabilize blood sugar.",
+      "ru": "Яблоко — это не только вкусный и легко доступный фрукт, но и содержит множество полезных веществ. Ежедневное употребление яблока помогает снизить риск сердечно-сосудистых заболеваний, регулировать уровень холестерина и стабилизировать уровень сахара в крови."
+    },
+    "image": "vector_apple"
+  },
+  {
+    "id": 5,
+    "title": {
+      "az": "Limonlu Su İçmək",
+      "tr": "Limonlu Su İçmek",
+      "en": "Drinking Lemon Water",
+      "ru": "Пить воду с лимоном"
+    },
+    "subtitle": {
+      "az": "Gündəlik Limonlu Su Vərdişi və Orqanizmə Dərin Təsirləri",
+      "tr": "Günlük Limonlu Su Alışkanlığı ve Vücuda Derin Etkileri",
+      "en": "Daily Lemon Water Habit and Its Profound Effects on the Body",
+      "ru": "Ежедневное употребление лимонной воды и её глубокое влияние на организм"
+    },
+    "description": {
+      "az": "Limonlu su təkcə təravətləndirici içki deyil, həm də orqanizmin sağlamlığı üçün çoxsaylı faydalar təqdim edir. Limonun tərkibində olan yüksək C vitamini immun sistemini gücləndirir və bədənə gələn infeksiyalarla mübarizə aparmağa kömək edir.",
+      "tr": "Limonlu su sadece ferahlatıcı bir içecek değil, aynı zamanda vücut sağlığı için birçok fayda sunar. Limonun yüksek C vitamini içeriği bağışıklık sistemini güçlendirir ve vücuda gelen enfeksiyonlarla savaşmaya yardımcı olur.",
+      "en": "Lemon water is not just a refreshing drink but also offers numerous health benefits. The high vitamin C content of lemons strengthens the immune system and helps the body fight infections.",
+      "ru": "Лимонная вода — это не просто освежающий напиток, но и множество полезных для здоровья эффектов. Высокое содержание витамина C в лимонах укрепляет иммунную систему и помогает организму бороться с инфекциями."
+    },
+    "image": "vector_lemon_water"
+  },
+  {
+    "id": 6,
+    "title": {
+      "az": "Bal yemək",
+      "tr": "Bal yemek",
+      "en": "Eating Honey",
+      "ru": "Есть мёд"
+    },
+    "subtitle": {
+      "az": "Bal Vərdişinin Orqanizmə Gözlənilməz Təsiri",
+      "tr": "Bal Alışkanlığının Vücuda Beklenmedik Etkisi",
+      "en": "The Unexpected Effects of Honey on the Body",
+      "ru": "Неожиданные эффекты мёда на организм"
+    },
+    "description": {
+      "az": "Bal təkcə təbii şirinlik mənbəyi deyil, həm də bir çox sağlamlıq faydaları ilə zəngindir. Bal antibakterial xüsusiyyətlərə malikdir və boğaz ağrısını yüngülləşdirmək üçün ənənəvi vasitə kimi istifadə olunur. Balın tərkibində güclü antioksidantlar var ki, ürək-damar sağlamlığını dəstəkləyir və xolesterolun azalmasına kömək edir.",
+      "tr": "Bal sadece doğal bir tat kaynağı değil, aynı zamanda birçok sağlık faydası içerir. Bal antibakteriyel özelliklere sahiptir ve boğaz ağrısını hafifletmek için geleneksel bir yöntem olarak kullanılır. İçeriğindeki güçlü antioksidanlar kalp-damar sağlığını destekler ve kolesterolün düşmesine yardımcı olur.",
+      "en": "Honey is not only a natural source of sweetness but also rich in many health benefits. Honey has antibacterial properties and is traditionally used to soothe sore throats. Its strong antioxidants support cardiovascular health and help reduce cholesterol.",
+      "ru": "Мёд — это не только естественный источник сладости, но и богатый множеством полезных свойств для здоровья. Мёд обладает антибактериальными свойствами и традиционно используется для облегчения боли в горле. Сильные антиоксиданты поддерживают сердечно-сосудистое здоровье и помогают снижать уровень холестерина."
+    },
+    "image": "vector_honey"
+  },
+  {
+    "id": 7,
+    "title": {
+      "az": "Zəncəfilin faydaları",
+      "tr": "Zencefilin faydaları",
+      "en": "Benefits of Ginger",
+      "ru": "Польза имбиря"
+    },
+    "subtitle": {
+      "az": "Zəncəfilin Təbii İltihabəleyhinə və Həzm Sisteminə Təsiri",
+      "tr": "Zencefilin Doğal Anti-inflamatuar ve Sindirim Sistemi Üzerine Etkisi",
+      "en": "Ginger's Natural Anti-inflammatory and Digestive Effects",
+      "ru": "Природное противовоспалительное и пищеварительное действие имбиря"
+    },
+    "description": {
+      "az": "Zəncəfil çox qədimdən təbii dərman kimi istifadə olunur. O, antiinflamatuar xüsusiyyətlərə malikdir və bədənin iltihab səviyyəsini azaldır. Həzm sistemi üçün faydalı olan zəncəfil mədə narahatlıqlarını yüngülləşdirir və ürəkbulanmanı azaldır.",
+      "tr": "Zencefil çok eski zamanlardan beri doğal bir ilaç olarak kullanılır. Anti-inflamatuar özelliklere sahiptir ve vücuttaki iltihap seviyesini azaltır. Sindirim sistemi için faydalıdır, mide rahatsızlıklarını hafifletir ve bulantıyı azaltır.",
+      "en": "Ginger has been used as a natural remedy since ancient times. It has anti-inflammatory properties and reduces the body’s inflammation. Beneficial for the digestive system, ginger eases stomach discomfort and reduces nausea.",
+      "ru": "Имбирь использовался как природное средство с древних времен. Он обладает противовоспалительными свойствами и снижает уровень воспаления в организме. Полезен для пищеварительной системы, облегчает желудочные расстройства и уменьшает тошноту."
+    },
+    "image": "vector_ginger"
+  },
+  {
+    "id": 8,
+    "title": {
+      "az": "Yulafın faydaları",
+      "tr": "Yulafın faydaları",
+      "en": "Benefits of Oats",
+      "ru": "Польза овса"
+    },
+    "subtitle": {
+      "az": "Yulafın Qidalandırıcı Tərkibi və Uzunmüddətli Enerji Verilməsi",
+      "tr": "Yulafın Besleyici İçeriği ve Uzun Süreli Enerji Sağlaması",
+      "en": "Nutritional Content of Oats and Long-lasting Energy",
+      "ru": "Питательная ценность овса и долговременная энергия"
+    },
+    "description": {
+      "az": "Yulaf tərkibində yüksək miqdarda lif və kompleks karbohidratlar ehtiva edir. Bu, qan şəkərinin stabilləşməsinə kömək edir və uzun müddət toxluq hissi yaradır. Yulafın tərkibində olan betaqlukan lifləri ürək-damar sağlamlığını dəstəkləyir və xolesterol səviyyəsini aşağı salır.",
+      "tr": "Yulaf yüksek miktarda lif ve kompleks karbonhidrat içerir. Kan şekerinin dengelenmesine yardımcı olur ve uzun süre tok hissettirir. İçerdiği beta-glukan lifleri kalp-damar sağlığını destekler ve kolesterolü düşür.",
+      "en": "Oats are rich in fiber and complex carbohydrates. They help stabilize blood sugar and provide long-lasting satiety. The beta-glucan fiber in oats supports cardiovascular health and lowers cholesterol.",
+      "ru": "Овёс богат клетчаткой и сложными углеводами. Он помогает стабилизировать уровень сахара в крови и обеспечивает долгое чувство сытости. Бета-глюкан в овсе поддерживает здоровье сердечно-сосудистой системы и снижает уровень холестерина."
+    },
+    "image": "vector_oats"
+  },
+  {
+    "id": 9,
+    "title": {
+      "az": "Çobanyastığı çayı içmək",
+      "tr": "Papatya çayı içmek",
+      "en": "Drinking Chamomile Tea",
+      "ru": "Пить чай из ромашки"
+    },
+    "subtitle": {
+      "az": "Çobanyastığı çayı və onun rahatladıcı təsirləri",
+      "tr": "Papatya Çayı ve Rahatlatıcı Etkileri",
+      "en": "Chamomile Tea and Its Relaxing Effects",
+      "ru": "Чай из ромашки и его расслабляющий эффект"
+    },
+    "description": {
+      "az": "Çobanyastığı çayı əsəbi sakitləşdirir, yuxu keyfiyyətini yaxşılaşdırır və həzm problemlərini aradan qaldırır. Gündə 1 fincan çobanyastığı çayı içmək stressin azaldılması və ümumi sağlamlıq üçün faydalıdır.",
+      "tr": "Papatya çayı siniri yatıştırır, uyku kalitesini artırır ve sindirim sorunlarını giderir. Günlük 1 fincan içmek stresi azaltır ve genel sağlık için faydalıdır.",
+      "en": "Chamomile tea calms nerves, improves sleep quality, and relieves digestive issues. Drinking one cup daily helps reduce stress and promotes overall health.",
+      "ru": "Чай из ромашки успокаивает нервы, улучшает качество сна и облегчает проблемы с пищеварением. Ежедневное употребление одной чашки помогает снизить стресс и улучшить общее здоровье."
+    },
+    "image": "vector_chamomile"
+  },
+  {
+    "id": 10,
+    "title": {
+      "az": "Chia toxumlarının faydaları",
+      "tr": "Chia tohumlarının faydaları",
+      "en": "Benefits of Chia Seeds",
+      "ru": "Польза семян чиа"
+    },
+    "subtitle": {
+      "az": "Chia toxumları ilə enerji və həzm sistemini dəstəkləmək",
+      "tr": "Chia Tohumları ile Enerji ve Sindirim Sistemini Desteklemek",
+      "en": "Supporting Energy and Digestion with Chia Seeds",
+      "ru": "Поддержка энергии и пищеварения с семенами чиа"
+    },
+    "description": {
+      "az": "Chia toxumları omeqa-3 yağ turşuları, lif və proteinlə zəngindir. Bu toxumlar həzm sistemini yaxşılaşdırır, qan şəkərini tənzimləyir və uzun müddət toxluq hissi verir. Günə bir qaşıq chia toxumu əlavə etmək sağlamlıq üçün böyük fayda təmin edir.",
+      "tr": "Chia tohumları omega-3 yağ asitleri, lif ve protein açısından zengindir. Sindirim sistemini destekler, kan şekerini düzenler ve uzun süre tok hissettirir. Günlük bir kaşık chia tohumu büyük fayda sağlar.",
+      "en": "Chia seeds are rich in omega-3 fatty acids, fiber, and protein. They improve digestion, regulate blood sugar, and provide long-lasting satiety. Adding a tablespoon daily offers significant health benefits.",
+      "ru": "Семена чиа богаты омега-3 жирными кислотами, клетчаткой и белком. Они улучшают пищеварение, регулируют уровень сахара в крови и создают длительное чувство сытости. Ежедневное добавление одной столовой ложки приносит значительную пользу для здоровья."
+    },
+    "image": "vector_chia_seeds"
+  }
+]
