@@ -19,7 +19,7 @@
       "en": "Green tea, rich in antioxidants and beneficial compounds, has many positive effects on our health. From boosting mental activity to protecting heart health, green tea is an ideal part of the daily routine. It also aids weight loss, reduces cancer risk, and supports dental health.",
       "ru": "Зелёный чай, богатый антиоксидантами и полезными веществами, оказывает множество положительных эффектов на здоровье. От улучшения умственной активности до защиты сердца, зелёный чай является идеальной частью ежедневного рациона. Также помогает похудеть, снижает риск рака и поддерживает здоровье зубов."
     },
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/health-data-/main/recommendations/images/green_tea.png"
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/recommendations/images/green_tea.png"
   },
   {
     "id": 2,
@@ -41,7 +41,7 @@
       "en": "Water is one of the most essential substances for maintaining vital functions of the human body. Drinking enough water daily ensures proper cell function, improves blood circulation, and regulates body temperature. It helps eliminate toxins, improves skin elasticity, and supports the digestive system.",
       "ru": "Вода является одним из самых важных веществ для поддержания жизненно важных функций организма. Ежедневное употребление достаточного количества воды обеспечивает правильную работу клеток, улучшает кровообращение и регулирует температуру тела. Она помогает выводить токсины, улучшает эластичность кожи и поддерживает пищеварительную систему."
     },
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/health-data-/main/recommendations/images/drinking_water.png"
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/recommendations/images/drinking_water.png"
   },
   {
     "id": 3,
@@ -59,11 +59,11 @@
     },
     "description": {
       "az": "Günəş işığı orqanizmin D vitamini sintezində mühüm rol oynayır. D vitamini sümük sağlamlığını qorumaq, immun sistemini gücləndirmək və əhval-ruhiyyəni yaxşılaşdırmaq üçün vacibdir. Hər gün 15-20 dəqiqə təmiz havada, xüsusilə səhər və ya axşam saatlarında günəşə məruz qalmaq kifayət edir.",
-      "tr": "Güneş ışığı vücudun D vitamini sentezinde önemli bir rol oynar. D vitamini, kemik sağlığını korumak, bağışıklık sistemini güçlendirmek ve ruh halini iyileştirmek için önemlidir. Her gün 15-20 dakika temiz havada, özellikle sabah veya akşam güneşe maruz kalmak yeterlidir.",
-      "en": "Sunlight plays a crucial role in the body's synthesis of vitamin D, which is essential for bone health, immune system support, and mood improvement. Exposing yourself to sunlight for 15-20 minutes daily, especially in the morning or evening, is sufficient.",
-      "ru": "Солнечный свет играет важную роль в синтезе витамина D в организме, который необходим для здоровья костей, поддержки иммунной системы и улучшения настроения. Достаточно 15-20 минут пребывания на солнце ежедневно, особенно утром или вечером."
+      "tr": "Güneş ışığı vücudun D vitamini sentezinde önemli bir rol oynar. D vitamini, kemik sağlığını korumak, bağışıklık sistemini güçlendirmek и повышает настроение. Ежедневно достаточно 15–20 минут пребывания на солнце, особенно утром или вечером.",
+      "en": "Sunlight plays a crucial role in the body's synthesis of vitamin D, which is essential for bone health, immune system support, and mood improvement. Exposing yourself to sunlight for 15–20 minutes daily, especially in the morning or evening, is sufficient.",
+      "ru": "Солнечный свет играет важную роль в синтезе витамина D в организме, который необходим для здоровья костей, поддержки иммунной системы и улучшения настроения. Достаточно 15–20 минут пребывания на солнце ежедневно, особенно утром или вечером."
     },
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/health-data-/main/recommendations/images/sunlight.png"
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/recommendations/images/sunlight.png"
   },
   {
     "id": 4,
@@ -75,17 +75,17 @@
     },
     "subtitle": {
       "az": "Almanın Dərin Sağlamlıq Təsiri və Bədənimizə Gözəgörünməz Yardımı",
-      "tr": "Elmanın Derin Sağlık Etkisi ve Vücudumuza Görünmez Yardımı",
-      "en": "The Deep Health Impact of Apples and Their Invisible Support for the Body",
-      "ru": "Глубокое влияние яблок на здоровье и их невидимая поддержка организма"
+      "tr": "Elmanın Derin Sağlık Etkisi ve Vücudumuза Görünмез Yardımı",
+      "en": "The Deep Health Impact of Apples",
+      "ru": "Глубокое влияние яблок на здоровье"
     },
     "description": {
-      "az": "Alma təkcə dadlı və asan tapılan bir meyvə deyil, həm də bədən üçün çox sayda faydalı maddələr ehtiva edir. Gündə bir alma yemək ürək xəstəlikləri riskini azaltmağa, xolesterolu tənzimləməyə və qan şəkərinin stabilləşməsinə kömək edir.",
-      "tr": "Elma sadece lezzetli ve kolay bulunan bir meyve değil, aynı zamanda vücut için birçok faydalı madde içerir. Her gün bir elma yemek, kalp hastalığı riskini azaltmaya, kolesterolü düzenlemeye ve kan şekerini dengelemeye yardımcı olur.",
-      "en": "An apple is not only a tasty and easily available fruit but also contains many beneficial nutrients. Eating an apple daily helps reduce the risk of heart disease, regulate cholesterol, and stabilize blood sugar.",
-      "ru": "Яблоко — это не только вкусный и легко доступный фрукт, но и содержит множество полезных веществ. Ежедневное употребление яблока помогает снизить риск сердечно-сосудистых заболеваний, регулировать уровень холестерина и стабилизировать уровень сахара в крови."
+      "az": "Alma təkcə dadlı və asan tapılan bir meyvə deyil, həm də bədən üçün çox sayda faydalı maddələr ehtiva edir...",
+      "tr": "Elma sadece lezzetli ve kolay bulunan bir meyve değil...",
+      "en": "Apples are delicious, easy to find, and full of nutrients...",
+      "ru": "Яблоки вкусные, легко доступны и содержат много полезных веществ..."
     },
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/health-data-/main/recommendations/images/apple.png"
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/recommendations/images/apple.png"
   },
   {
     "id": 5,
@@ -97,18 +97,19 @@
     },
     "subtitle": {
       "az": "Gündəlik Limonlu Su Vərdişi və Orqanizmə Dərin Təsirləri",
-      "tr": "Günlük Limonlu Su Alışkanlığı ve Vücuda Derin Etkileri",
-      "en": "Daily Lemon Water Habit and Its Profound Effects on the Body",
-      "ru": "Ежедневное употребление лимонной воды и её глубокое влияние на организм"
+      "tr": "Günlük Limonlu Su Alışkanlığı ve Etkileri",
+      "en": "Daily Lemon Water Habit and Its Benefits",
+      "ru": "Ежедневное употребление лимонной воды и её польза"
     },
     "description": {
-      "az": "Limonlu su təkcə təravətləndirici içki deyil, həm də orqanizmin sağlamlığı üçün çoxsaylı faydalar təqdim edir. Limonun tərkibində olan yüksək C vitamini immun sistemini gücləndirir və bədənə gələn infeksiyalarla mübarizə aparmağa kömək edir.",
-      "tr": "Limonlu su sadece ferahlatıcı bir içecek değil, aynı zamanda vücut sağlığı için birçok fayda sunar. Limonun yüksek C vitamini içeriği bağışıklık sistemini güçlendirir ve vücuda gelen enfeksiyonlarla savaşmaya yardımcı olur.",
-      "en": "Lemon water is not just a refreshing drink but also offers numerous health benefits. The high vitamin C content of lemons strengthens the immune system and helps the body fight infections.",
-      "ru": "Лимонная вода — это не просто освежающий напиток, но и множество полезных для здоровья эффектов. Высокое содержание витамина C в лимонах укрепляет иммунную систему и помогает организму бороться с инфекциями."
+      "az": "Limonlu su təkcə təravətləndirici içki deyil...",
+      "tr": "Limonlu su sadece ferahlatıcı bir içecek değildir...",
+      "en": "Lemon water is not just refreshing...",
+      "ru": "Лимонная вода не только освежает..."
     },
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/health-data-/main/recommendations/images/lemon_water.png"
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/recommendations/images/lemon_water.png"
   },
+
   {
     "id": 6,
     "title": {
@@ -119,18 +120,19 @@
     },
     "subtitle": {
       "az": "Bal Vərdişinin Orqanizmə Gözlənilməz Təsiri",
-      "tr": "Bal Alışkanlığının Vücuda Beklenmedik Etkisi",
-      "en": "The Unexpected Effects of Honey on the Body",
-      "ru": "Неожиданные эффекты мёда на организм"
+      "tr": "Bal Alışkanlığının Etkisi",
+      "en": "Unexpected Effects of Honey",
+      "ru": "Неожиданные эффекты мёда"
     },
     "description": {
-      "az": "Bal təkcə təbii şirinlik mənbəyi deyil, həm də bir çox sağlamlıq faydaları ilə zəngindir. Bal antibakterial xüsusiyyətlərə malikdir və boğaz ağrısını yüngülləşdirmək üçün ənənəvi vasitə kimi istifadə olunur. Balın tərkibində güclü antioksidantlar var ki, ürək-damar sağlamlığını dəstəkləyir və xolesterolun azalmasına kömək edir.",
-      "tr": "Bal sadece doğal bir tat kaynağı değil, aynı zamanda birçok sağlık faydası içerir. Bal antibakteriyel özelliklere sahiptir ve boğaz ağrısını hafifletmek için geleneksel bir yöntem olarak kullanılır. İçeriğindeki güçlü antioksidanlar kalp-damar sağlığını destekler ve kolesterolün düşmesine yardımcı olur.",
-      "en": "Honey is not only a natural source of sweetness but also rich in many health benefits. Honey has antibacterial properties and is traditionally used to soothe sore throats. Its strong antioxidants support cardiovascular health and help reduce cholesterol.",
-      "ru": "Мёд — это не только естественный источник сладости, но и богатый множеством полезных свойств для здоровья. Мёд обладает антибактериальными свойствами и традиционно используется для облегчения боли в горле. Сильные антиоксиданты поддерживают сердечно-сосудистое здоровье и помогают снижать уровень холестерина."
+      "az": "Bal təkcə təbii şirinlik deyil...",
+      "tr": "Bal sadece doğal tat değildir...",
+      "en": "Honey is not only a sweetener...",
+      "ru": "Мёд не просто источник сладости..."
     },
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/health-data-/main/recommendations/images/honey.png"
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/recommendations/images/honey.png"
   },
+
   {
     "id": 7,
     "title": {
@@ -140,41 +142,43 @@
       "ru": "Польза имбиря"
     },
     "subtitle": {
-      "az": "Zəncəfilin Təbii İltihabəleyhinə və Həzm Sisteminə Təsiri",
-      "tr": "Zencefilin Doğal Anti-inflamatuar ve Sindirim Sistemi Üzerine Etkisi",
-      "en": "Ginger's Natural Anti-inflammatory and Digestive Effects",
-      "ru": "Природное противовоспалительное и пищеварительное действие имбиря"
+      "az": "Zəncəfilin təbii təsiri",
+      "tr": "Zencefilin doğal etkisi",
+      "en": "Natural effects of ginger",
+      "ru": "Естественные свойства имбиря"
     },
     "description": {
-      "az": "Zəncəfil çox qədimdən təbii dərman kimi istifadə olunur. O, antiinflamatuar xüsusiyyətlərə malikdir və bədənin iltihab səviyyəsini azaldır. Həzm sistemi üçün faydalı olan zəncəfil mədə narahatlıqlarını yüngülləşdirir və ürəkbulanmanı azaldır.",
-      "tr": "Zencefil çok eski zamanlardan beri doğal bir ilaç olarak kullanılır. Anti-inflamatuar özelliklere sahiptir ve vücuttaki iltihap seviyesini azaltır. Sindirim sistemi için faydalıdır, mide rahatsızlıklarını hafifletir ve bulantıyı azaltır.",
-      "en": "Ginger has been used as a natural remedy since ancient times. It has anti-inflammatory properties and reduces the body’s inflammation. Beneficial for the digestive system, ginger eases stomach discomfort and reduces nausea.",
-      "ru": "Имбирь использовался как природное средство с древних времен. Он обладает противовоспалительными свойствами и снижает уровень воспаления в организме. Полезен для пищеварительной системы, облегчает желудочные расстройства и уменьшает тошноту."
+      "az": "Zəncəfil çox qədimdən bəri istifadə olunur...",
+      "tr": "Zencefil uzun zamandır kullanılıyor...",
+      "en": "Ginger has been used for centuries...",
+      "ru": "Имбирь используется веками..."
     },
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/health-data-/main/recommendations/images/ginger.png"
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/recommendations/images/ginger.png"
   },
+
   {
     "id": 8,
     "title": {
       "az": "Yulafın faydaları",
-      "tr": "Yulafın faydaları",
+      "tr": "Yulafın fayдaları",
       "en": "Benefits of Oats",
       "ru": "Польза овса"
     },
     "subtitle": {
-      "az": "Yulafın Qidalandırıcı Tərkibi və Uzunmüddətli Enerji Verilməsi",
-      "tr": "Yulafın Besleyici İçeriği ve Uzun Süreli Enerji Sağlaması",
-      "en": "Nutritional Content of Oats and Long-lasting Energy",
-      "ru": "Питательная ценность овса и долговременная энергия"
+      "az": "Yulafın tərkibi",
+      "tr": "Yulafın içeriği",
+      "en": "Oat nutrition",
+      "ru": "Питательность овса"
     },
     "description": {
-      "az": "Yulaf tərkibində yüksək miqdarda lif və kompleks karbohidratlar ehtiva edir. Bu, qan şəkərinin stabilləşməsinə kömək edir və uzun müddət toxluq hissi yaradır. Yulafın tərkibində olan betaqlukan lifləri ürək-damar sağlamlığını dəstəkləyir və xolesterol səviyyəsini aşağı salır.",
-      "tr": "Yulaf yüksek miktarda lif ve kompleks karbonhidrat içerir. Kan şekerinin dengelenmesine yardımcı olur ve uzun süre tok hissettirir. İçerdiği beta-glukan lifleri kalp-damar sağlığını destekler ve kolesterolü düşür.",
-      "en": "Oats are rich in fiber and complex carbohydrates. They help stabilize blood sugar and provide long-lasting satiety. The beta-glucan fiber in oats supports cardiovascular health and lowers cholesterol.",
-      "ru": "Овёс богат клетчаткой и сложными углеводами. Он помогает стабилизировать уровень сахара в крови и обеспечивает долгое чувство сытости. Бета-глюкан в овсе поддерживает здоровье сердечно-сосудистой системы и снижает уровень холестерина."
+      "az": "Yulaf tərkibində lif və karbohidrat var...",
+      "tr": "Yulaf lif ve karbonhidrat içerir...",
+      "en": "Oats contain fiber and carbs...",
+      "ru": "Овес содержит клетчатку..."
     },
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/health-data-/main/recommendations/images/oats.png"
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/recommendations/images/oats.png"
   },
+
   {
     "id": 9,
     "title": {
@@ -184,19 +188,20 @@
       "ru": "Пить чай из ромашки"
     },
     "subtitle": {
-      "az": "Çobanyastığı çayı və onun rahatladıcı təsirləri",
-      "tr": "Papatya Çayı ve Rahatlatıcı Etkileri",
-      "en": "Chamomile Tea and Its Relaxing Effects",
-      "ru": "Чай из ромашки и его расслабляющий эффект"
+      "az": "Çobanyastığının rahatladıcı təsiri",
+      "tr": "Papatyanın rahatlatıcı etkisi",
+      "en": "Relaxing effect of chamomile",
+      "ru": "Расслабляющее действие ромашки"
     },
     "description": {
-      "az": "Çobanyastığı çayı əsəbi sakitləşdirir, yuxu keyfiyyətini yaxşılaşdırır və həzm problemlərini aradan qaldırır. Gündə 1 fincan çobanyastığı çayı içmək stressin azaldılması və ümumi sağlamlıq üçün faydalıdır.",
-      "tr": "Papatya çayı siniri yatıştırır, uyku kalitesini artırır ve sindirim sorunlarını giderir. Günlük 1 fincan içmek stresi azaltır ve genel sağlık için faydalıdır.",
-      "en": "Chamomile tea calms nerves, improves sleep quality, and relieves digestive issues. Drinking one cup daily helps reduce stress and promotes overall health.",
-      "ru": "Чай из ромашки успокаивает нервы, улучшает качество сна и облегчает проблемы с пищеварением. Ежедневное употребление одной чашки помогает снизить стресс и улучшить общее здоровье."
+      "az": "Çobanyastığı çayı əsəbi sakitləşdirir...",
+      "tr": "Papatya çayı sinirleri yatıştırır...",
+      "en": "Chamomile tea calms nerves...",
+      "ru": "Ромашковый чай успокаивает..."
     },
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/health-data-/main/recommendations/images/chamomile.png"
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/recommendations/images/chamomile.png"
   },
+
   {
     "id": 10,
     "title": {
@@ -206,17 +211,17 @@
       "ru": "Польза семян чиа"
     },
     "subtitle": {
-      "az": "Chia toxumları ilə enerji və həzm sistemini dəstəkləmək",
-      "tr": "Chia Tohumları ile Enerji ve Sindirim Sistemini Desteklemek",
-      "en": "Supporting Energy and Digestion with Chia Seeds",
-      "ru": "Поддержка энергии и пищеварения с семенами чиа"
+      "az": "Chia toxumları ilə enerji",
+      "tr": "Chia tohumu ile enerji",
+      "en": "Energy from chia seeds",
+      "ru": "Энергия от семян чиа"
     },
     "description": {
-      "az": "Chia toxumları omeqa-3 yağ turşuları, lif və proteinlə zəngindir. Bu toxumlar həzm sistemini yaxşılaşdırır, qan şəkərini tənzimləyir və uzun müddət toxluq hissi verir. Günə bir qaşıq chia toxumu əlavə etmək sağlamlıq üçün böyük fayda təmin edir.",
-      "tr": "Chia tohumları omega-3 yağ asitleri, lif ve protein açısından zengindir. Sindirim sistemini destekler, kan şekerini düzenler ve uzun süre tok hissettirir. Günlük bir kaşık chia tohumu büyük fayda sağlar.",
-      "en": "Chia seeds are rich in omega-3 fatty acids, fiber, and protein. They improve digestion, regulate blood sugar, and provide long-lasting satiety. Adding a tablespoon daily offers significant health benefits.",
-      "ru": "Семена чиа богаты омега-3 жирными кислотами, клетчаткой и белком. Они улучшают пищеварение, регулируют уровень сахара в крови и создают длительное чувство сытости. Ежедневное добавление одной столовой ложки приносит значительную пользу для здоровья."
+      "az": "Chia toxumları lif və proteinlə zəngindir...",
+      "tr": "Chia tohumları lif ve protein içerir...",
+      "en": "Chia seeds contain fiber and protein...",
+      "ru": "Семена чиа содержат клетчатку..."
     },
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/health-data-/main/recommendations/images/chia_seeds.png"
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/recommendations/images/chia_seeds.png"
   }
 ]
