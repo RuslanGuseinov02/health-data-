@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/story/images/doctor.png",
-    "lottie": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/story/animations/doctor_control.json",
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/stories/images/candy.png",
+    "lottie": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/stories/animations/doctor_control.json",
     "message": {
       "az": "Sağlamlığınızı qorumaq üçün ildə ən azı bir dəfə həkim müayinəsindən keçin və özünüzü yaxşı hiss etməyin yollarını öyrənin.",
       "tr": "Sağlığınızı korumak için yılda en az bir kez doktora gidin ve kendinizi iyi hissetmenin yollarını öğrenin.",
@@ -12,8 +12,8 @@
   },
   {
     "id": 2,
-    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/story/images/hand_wash.png",
-    "lottie": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/story/animations/hand_wash.json",
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/stories/images/hand_wash.png",
+    "lottie": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/stories/animations/hand_wash.json",
     "message": {
       "az": "Mikroblardan qorunmaq üçün əllərinizi sabun və su ilə ən az 20 saniyə ovuşdurun.",
       "tr": "Mikroplardan korunmak için ellerinizi sabun ve su ile en az 20 saniye ovarak temizleyin.",
@@ -23,8 +23,8 @@
   },
   {
     "id": 3,
-    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/story/images/sleep.png",
-    "lottie": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/story/animations/sleep.json",
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/stories/images/sleep.png",
+    "lottie": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/stories/animations/sleep.json",
     "message": {
       "az": "Yuxu sizin super gücünüzdür! Gündə 7-8 saat yatın və bədəninizi və beyninizi yeniləyin.",
       "tr": "Uyku sizin süper gücünüzdür! Günde 7-8 saat uyuyun ve bedeninizi ve beyninizi tazeleyin.",
@@ -34,8 +34,8 @@
   },
   {
     "id": 4,
-    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/story/images/candy.png",
-    "lottie": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/story/animations/candy.json",
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/stories/images/candy.png",
+    "lottie": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/stories/animations/candy.json",
     "message": {
       "az": "Təbii enerjiyə qovuşun: şəkərli qidaları azaldın və şirinliyi təbii meyvələrdən alın.",
       "tr": "Doğal enerjiyle dolun: şekerli yiyecekleri sınırlayın ve tatlılığı doğal meyvelerden alın.",
@@ -45,8 +45,8 @@
   },
   {
     "id": 5,
-    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/story/images/first_aid_kit.png",
-    "lottie": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/story/animations/first_aid_kit.json",
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/stories/images/first_aid_kit.png",
+    "lottie": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/stories/animations/first_aid_kit.json",
     "message": {
       "az": "Kiçik addımlar böyük fərq yaradır: sağlam vərdişlərə başlayın!",
       "tr": "Küçük adımlar büyük fark yaratır: sağlıklı alışkanlıklara başlayın!",
@@ -56,8 +56,8 @@
   },
   {
     "id": 6,
-    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/story/images/water_drink.png",
-    "lottie": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/story/animations/water_drink.json",
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/stories/images/water_drink.png",
+    "lottie": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/stories/animations/water_drink.json",
     "message": {
       "az": "Su içmək bədənin gizli silahıdır! Gündə ən az 2 litr için və enerjinizi yüksəldin.",
       "tr": "Su içmek vücudun gizli silahıdır! Günde en az 2 litre için ve enerjinizi yükseltin.",
@@ -67,8 +67,8 @@
   },
   {
     "id": 7,
-    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/story/images/walk.png",
-    "lottie": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/story/animations/walk.json",
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/stories/images/walk.png",
+    "lottie": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/stories/animations/walk.json",
     "message": {
       "az": "Gündə ən az 10,000 addım atın: hər addım sağlamlığınıza yatırımdır!",
       "tr": "Günde en az 10.000 adım atın: her adım sağlığınıza yatırımdır!",
