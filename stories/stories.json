@@ -1,1 +1,79 @@
-
+[
+  {
+    "id": 1,
+    "image": "ds_ic_story_doctor",
+    "lottie": "anim_doctor",
+    "message": {
+      "az": "Sağlamlığınızı qorumaq üçün ildə ən azı bir dəfə həkim müayinəsindən keçin və özünüzü yaxşı hiss etməyin yollarını öyrənin.",
+      "tr": "Sağlığınızı korumak için yılda en az bir kez doktora gidin ve kendinizi iyi hissetmenin yollarını öğrenin.",
+      "en": "Ensure your health by visiting a doctor at least once a year and discover ways to feel your best.",
+      "ru": "Сохраняйте здоровье: проходите медицинский осмотр хотя бы раз в год и узнайте, как чувствовать себя лучше."
+    }
+  },
+  {
+    "id": 2,
+    "image": "ds_ic_story_hand_wash",
+    "lottie": "anim_hand_wash",
+    "message": {
+      "az": "Mikroblardan qorunmaq üçün əllərinizi sabun və su ilə ən az 20 saniyə ovuşdurun.",
+      "tr": "Mikroplardan korunmak için ellerinizi sabun ve su ile en az 20 saniye ovarak temizleyin.",
+      "en": "Protect yourself from germs by scrubbing your hands with soap and water for at least 20 seconds.",
+      "ru": "Защитите себя от микробов, тщательно мойте руки с мылом и водой не менее 20 секунд."
+    }
+  },
+  {
+    "id": 3,
+    "image": "ds_ic_story_sleep",
+    "lottie": "anim_sleep",
+    "message": {
+      "az": "Yuxu sizin super gücünüzdür! Gündə 7-8 saat yatın və bədəninizi və beyninizi yeniləyin.",
+      "tr": "Uyku sizin süper gücünüzdür! Günde 7-8 saat uyuyun ve bedeninizi ve beyninizi tazeleyin.",
+      "en": "Sleep is your superpower! Get 7-8 hours daily and recharge your body and mind.",
+      "ru": "Сон — ваша суперсила! Спите 7-8 часов в день и восстановите тело и разум."
+    }
+  },
+  {
+    "id": 4,
+    "image": "ds_ic_story_candy",
+    "lottie": "anim_candy",
+    "message": {
+      "az": "Təbii enerjiyə qovuşun: şəkərli qidaları azaldın və şirinliyi təbii meyvələrdən alın.",
+      "tr": "Doğal enerjiyle dolun: şekerli yiyecekleri sınırlayın ve tatlılığı doğal meyvelerden alın.",
+      "en": "Boost your natural energy: limit sugary foods and enjoy sweetness from fresh fruits.",
+      "ru": "Получайте природную энергию: ограничьте сладкое и наслаждайтесь сладостью натуральных фруктов."
+    }
+  },
+  {
+    "id": 5,
+    "image": "ds_ic_story_first_aid",
+    "lottie": "anim_first_aid",
+    "message": {
+      "az": "Kiçik addımlar böyük fərq yaradır: sağlam vərdişlərə başlayın!",
+      "tr": "Küçük adımlar büyük fark yaratır: sağlıklı alışkanlıklara başlayın!",
+      "en": "Small steps make a big difference: start healthy habits today!",
+      "ru": "Маленькие шаги создают большую разницу: начните здоровые привычки!"
+    }
+  },
+  {
+    "id": 6,
+    "image": "ds_ic_story_water_drink",
+    "lottie": "anim_water",
+    "message": {
+      "az": "Su içmək bədənin gizli silahıdır! Gündə ən az 2 litr için və enerjinizi yüksəldin.",
+      "tr": "Su içmek vücudun gizli silahıdır! Günde en az 2 litre için ve enerjinizi yükseltin.",
+      "en": "Drinking water is your body’s secret weapon! Drink at least 2 liters daily and boost your energy.",
+      "ru": "Питьё воды — это секретное оружие вашего тела! Пейте не менее 2 литров в день и повышайте свою энергию."
+    }
+  },
+  {
+    "id": 7,
+    "image": "ds_ic_story_walk",
+    "lottie": "anim_walk",
+    "message": {
+      "az": "Gündə ən az 10,000 addım atın: hər addım sağlamlığınıza yatırımdır!",
+      "tr": "Günde en az 10.000 adım atın: her adım sağlığınıza yatırımdır!",
+      "en": "Walk at least 10,000 steps daily: every step is an investment in your health!",
+      "ru": "Проходите не менее 10 000 шагов в день: каждый шаг — инвестиция в ваше здоровье!"
+    }
+  }
+]
