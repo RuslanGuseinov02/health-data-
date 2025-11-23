@@ -579,7 +579,7 @@
       "en": "Rest,\nDrink plenty of water,\nTake painkillers",
       "ru": "Отдых,\nПить много воды,\nПринимать обезболивающие"
     },
-    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-@latest/diseases/images/headache.png",
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/diseases/images/headache.png",
     "duration": {
       "az": "Qısa müddətli",
       "tr": "Kısa süreli",
@@ -607,7 +607,7 @@
       "en": "Drink warm water,\nUse a humidifier,\nConsume honey",
       "ru": "Пить тёплую воду,\nИспользовать увлажнитель,\nЕсть мёд"
     },
-    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-@latest/diseases/images/cough.png",
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/diseases/images/cough.png",
     "duration": {
       "az": "Qısa müddətli",
       "tr": "Kısa süreli",
@@ -635,7 +635,7 @@
       "en": "Get proper rest,\nEat healthy,\nLight daily exercise",
       "ru": "Хорошо отдыхать,\nЗдоровое питание,\nЛёгкие ежедневные упражнения"
     },
-    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-@latest/diseases/images/weakness.png",
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/diseases/images/weakness.png",
     "duration": {
       "az": "Qısa və uzun müddətli ola bilər",
       "tr": "Kısa ve uzun süreli olabilir",
@@ -663,7 +663,7 @@
       "en": "Eat light, drink water, apply warm compress",
       "ru": "Легкая диета, пить воду, теплый компресс"
     },
-    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-@latest/diseases/images/abdominal_pain.png",
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/diseases/images/abdominal_pain.png",
     "duration": {
       "az": "Qısa müddətli",
       "tr": "Kısa süreli",
