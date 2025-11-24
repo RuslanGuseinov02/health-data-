@@ -26,5 +26,649 @@
       "en": "Lifetime monitoring",
       "ru": "Наблюдение на протяжении жизни"
     }
+  },
+  {
+    "id": 2,
+    "disease_name": {
+      "az": "Aşağı Təzyiq",
+      "tr": "Düşük Tansiyon",
+      "en": "Low Blood Pressure",
+      "ru": "Низкое давление"
+    },
+    "symptoms": {
+      "az": "Başgicəllənmə,\nhalsızlıq,\ndiqqətini cəmləməkdə çətinlik,\nürək döyüntüsündə zəiflik,\nüzün və dırnaqların solğunluğu",
+      "tr": "Baş dönmesi,\nYorgunluk,\nDikkati toplamakta zorluk,\nKalp atışında güçsüzlük,\nYüz ve tırnaklarda solgunluk",
+      "en": "Dizziness,\nFatigue,\nDifficulty concentrating,\nWeak heartbeat,\nPale face and nails",
+      "ru": "Головокружение,\nСлабость,\nСложности с концентрацией,\nСлабое сердцебиение,\nБледность лица и ногтей"
+    },
+    "treatments": {
+      "az": "Bol su içmək,\nduzlu qidalar yemək,\nqəhvə və ya çay içmək,\ntez-tez kiçik yeməklər yemək",
+      "tr": "Bol su içmek,\nTuzlu yiyecekler yemek,\nKahve veya çay içmek,\nSık sık küçük öğünler yemek",
+      "en": "Drink plenty of water,\nEat salty foods,\nDrink coffee or tea,\nEat small frequent meals",
+      "ru": "Пить много воды,\nЕсть солёные продукты,\nПить кофе или чай,\nЕсть маленькими порциями часто"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/diseases/images/low_blood_pressure.png",
+    "duration": {
+      "az": "Bir neçə saatdan bir neçə günə qədər",
+      "tr": "Birkaç saatten birkaç güne kadar",
+      "en": "From a few hours to a few days",
+      "ru": "От нескольких часов до нескольких дней"
+    }
+  },
+  {
+    "id": 3,
+    "disease_name": {
+      "az": "Yuxusuzluq",
+      "tr": "Uykusuzluk",
+      "en": "Insomnia",
+      "ru": "Бессонница"
+    },
+    "symptoms": {
+      "az": "Gecə boyunca yatmaqda çətinlik,\nnarahatlıq",
+      "tr": "Gece boyunca uyumakta zorluk,\nHuzursuzluk",
+      "en": "Difficulty sleeping through the night,\nRestlessness",
+      "ru": "Трудности с ночным сном,\nБеспокойство"
+    },
+    "treatments": {
+      "az": "İlıq süd içmək,\nlavanda yağı istifadə etmək,\nçobanyastığı çayı içmək,\nfiziki aktivlik etmək,\nmelatonin dəstəyi olan qidalar istifadə etmək,\nisti vanna qəbul etmək,\nstressdən uzaq durmaq,\nyaxşı yuxu vərdişləri yaratmaq",
+      "tr": "Ilık süt içmek,\nLavanta yağı kullanmak,\nPapatya çayı içmek,\nFiziksel aktivite yapmak,\nMelatonin destekli gıdalar kullanmak,\nSıcak banyo yapmak,\nStresten uzak durmak,\nİyi uyku alışkanlıkları yaratmak",
+      "en": "Drink warm milk,\nUse lavender oil,\nDrink chamomile tea,\nExercise,\nConsume melatonin-supporting foods,\nTake warm baths,\nAvoid stress,\nCreate good sleep habits",
+      "ru": "Пить тёплое молоко,\nИспользовать лавандовое масло,\nПить чай из ромашки,\nФизическая активность,\nПринимать продукты с мелатонином,\nТёплая ванна,\nИзбегать стресса,\nСоздавать хорошие привычки сна"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/diseases/images/insomnia.png",
+    "duration": {
+      "az": "Bir neçə gündən bir neçə həftəyə qədər",
+      "tr": "Birkaç günden birkaç haftaya kadar",
+      "en": "From a few days to a few weeks",
+      "ru": "От нескольких дней до нескольких недель"
+    }
+  },
+  {
+    "id": 4,
+    "disease_name": {
+      "az": "Ürəkbulanma",
+      "tr": "Mide Bulantısı",
+      "en": "Nausea",
+      "ru": "Тошнота"
+    },
+    "symptoms": {
+      "az": "Mədədə narahatlıq,\ntəngnəfəslik,\nhalsızlıq",
+      "tr": "Mide rahatsızlığı,\nNefes darlığı,\nYorgunluk",
+      "en": "Stomach discomfort,\nShortness of breath,\nFatigue",
+      "ru": "Дискомфорт в желудке,\nОдышка,\nСлабость"
+    },
+    "treatments": {
+      "az": "Zəncəfil içmək,\nlimonlu su içmək,\nnane çayı içmək,\nçobanyastığı çayı içmək,\ngündəlik yüngül yürüşlər etmək,\nsu içmək,\nyavaş-yavaş yemək,\ngünəş işığında vaxt keçirmək",
+      "tr": "Zencefil içmek,\nLimonlu su içmek,\nNane çayı içmek,\nPapatya çayı içmek,\nGünlük hafif yürüyüşler yapmak,\nSu içmek,\nYavaş yemek,\nGüneş ışığında zaman geçirmek",
+      "en": "Drink ginger,\nDrink lemon water,\nDrink mint tea,\nDrink chamomile tea,\nDaily light walks,\nDrink water,\nEat slowly,\nSpend time in sunlight",
+      "ru": "Пить имбирь,\nПить воду с лимоном,\nПить мятный чай,\nПить чай из ромашки,\nЛёгкие прогулки ежедневно,\nПить воду,\nЕсть медленно,\nПроводить время на солнце"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/diseases/images/nausea.png",
+    "duration": {
+      "az": "Bir neçə saatdan bir neçə günə qədər davam edə bilər",
+      "tr": "Birkaç saatten birkaç güne kadar sürebilir",
+      "en": "May last from a few hours to a few days",
+      "ru": "Может длиться от нескольких часов до нескольких дней"
+    }
+  },
+  {
+    "id": 5,
+    "disease_name": {
+      "az": "Qızdırma",
+      "tr": "Ateş",
+      "en": "Fever",
+      "ru": "Жар"
+    },
+    "symptoms": {
+      "az": "Yüksək temperatur,\ntərləmə,\nzəiflik,\ntitrəmə",
+      "tr": "Yüksek ateş,\nTerleme,\nZayıflık,\nTitreme",
+      "en": "High temperature,\nSweating,\nWeakness,\nShivering",
+      "ru": "Высокая температура,\nПотливость,\nСлабость,\nДрожь"
+    },
+    "treatments": {
+      "az": "Buzlu kompres istifadə etmək,\nisti şorba və bitki çayları içmək,\nsu içmək,\ntərləməyi təşviq etmək,\nmeyvə və tərəvəzlər yemək,\nistirahət etmək,\nsərin vanna qəbul etmək,\ntəzə havada olmaq",
+      "tr": "Soğuk kompres kullanmak,\nSıcak çorba ve bitki çayları içmek,\nSu içmek,\nTerlemeyi teşvik etmek,\nMeyve ve sebzeler yemek,\nDinlenmek,\nSerin banyo yapmak,\nTemiz havada bulunmak",
+      "en": "Use cold compress,\nDrink warm soup and herbal teas,\nDrink water,\nEncourage sweating,\nEat fruits and vegetables,\nRest,\nTake cool baths,\nBe in fresh air",
+      "ru": "Использовать холодный компресс,\nПить тёплый суп и травяные чаи,\nПить воду,\nСтимулировать потоотделение,\nЕсть фрукты и овощи,\nОтдых,\nПринимать прохладные ванны,\nНаходиться на свежем воздухе"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/diseases/images/fever.png",
+    "duration": {
+      "az": "Bir neçə saatdan bir neçə günə qədər davam edə bilər",
+      "tr": "Birkaç saatten birkaç güne kadar sürebilir",
+      "en": "May last from a few hours to a few days",
+      "ru": "Может длиться от нескольких часов до нескольких дней"
+    }
+  },
+  {
+    "id": 6,
+    "disease_name": {
+      "az": "Qəbizlik",
+      "tr": "Kabızlık",
+      "en": "Constipation",
+      "ru": "Запор"
+    },
+    "symptoms": {
+      "az": "Çətin tualetə getmək,\nqarında ağrı,\nşişkinlik",
+      "tr": "Tuvalete gitmekte zorluk,\nkarında ağrı,\nşişkinlik",
+      "en": "Difficulty passing stool,\nabdominal pain,\nbloating",
+      "ru": "Затрудненное опорожнение кишечника,\nболь в животе,\nвздутие"
+    },
+    "treatments": {
+      "az": "Lifli qidalar yemək,\nbol su içmək,\nhərəkət etmək,\ntəbii meyvə və tərəvəzlər istifadə etmək,\nzeytun yağı və limon suyu içmək,\nprobiotiklər istifadə etmək,\nqaynar su içmək,\nbitki çayları içmək",
+      "tr": "Lifli gıdalar yemek,\nbol su içmek,\nhareket etmek,\ndoğal meyve ve sebzeler kullanmak,\nzeytin yağı ve limon suyu içmek,\nprobiyotikler kullanmak,\nsıcak su içmek,\nbitki çayları içmek",
+      "en": "Eat high-fiber foods,\ndrink plenty of water,\nexercise,\nconsume natural fruits and vegetables,\ndrink olive oil and lemon juice,\nuse probiotics,\ndrink warm water,\ndrink herbal teas",
+      "ru": "Есть продукты с высоким содержанием клетчатки,\nпить много воды,\nзаниматься физической активностью,\nупотреблять фрукты и овощи,\nпить оливковое масло и лимонный сок,\nиспользовать пробиотики,\nпить тёплую воду,\nпить травяные чаи"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/diseases/images/constipation.png",
+    "duration": {
+      "az": "2-3 gün",
+      "tr": "2-3 gün",
+      "en": "2-3 days",
+      "ru": "2-3 дня"
+    }
+  },
+  {
+    "id": 7,
+    "disease_name": {
+      "az": "İshal",
+      "tr": "İshal",
+      "en": "Diarrhea",
+      "ru": "Диарея"
+    },
+    "symptoms": {
+      "az": "Tez-tez tualetə getmək,\nqarında ağrı,\nhalsızlıq,\nsusuzluq",
+      "tr": "Sık sık tuvalete gitmek,\nkarın ağrısı,\nyorgunluk,\nsusuzluk",
+      "en": "Frequent bowel movements,\nabdominal pain,\nweakness,\ndehydration",
+      "ru": "Частое посещение туалета,\nболь в животе,\nслабость,\nобезвоживание"
+    },
+    "treatments": {
+      "az": "Bol su içmək,\nquru qidalar yemək,\nprobiyotiklər istifadə etmək,\nzeytun yağı içmək,\ntəbii bitki çayları içmək,\nkokos suyu içmək,\nyüngül yeməklər yemək,\nqara çörək və kətan toxumu istifadə etmək",
+      "tr": "Bol su içmek,\nkuru gıdalar yemek,\nprobiyotikler kullanmak,\nzeytin yağı içmek,\ndoğal bitki çayları içmek,\nkakao suyu içmek,\nhafif yemekler yemek,\nkarabuğday ekmeği ve keten tohumu kullanmak",
+      "en": "Drink plenty of water,\neat dry foods,\nuse probiotics,\ndrink olive oil,\ndrink herbal teas,\ndrink coconut water,\neat light meals,\nconsume black bread and flax seeds",
+      "ru": "Пить много воды,\nесть сухие продукты,\nиспользовать пробиотики,\nпить оливковое масло,\nпить травяные чаи,\nпить кокосовую воду,\nесть легкую пищу,\nупотреблять черный хлеб и семена льна"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/diseases/images/diarrhea.png",
+    "duration": {
+      "az": "1-2 gün",
+      "tr": "1-2 gün",
+      "en": "1-2 days",
+      "ru": "1-2 дня"
+    }
+  },
+  {
+    "id": 8,
+    "disease_name": {
+      "az": "Burun Tıxanması",
+      "tr": "Burun Tıkanıklığı",
+      "en": "Nasal Congestion",
+      "ru": "Заложенность носа"
+    },
+    "symptoms": {
+      "az": "Burun tıxanması,\nnəfəs almaqda çətinlik,\nbas ağrısı,\nsəsin dəyişməsi,\nboğazda quruluq hissi",
+      "tr": "Burun tıkanması,\nnefes almakta zorluk,\nbaş ağrısı,\nses değişikliği,\nboğazda kuruluk",
+      "en": "Nasal blockage,\ndifficulty breathing,\n,\nvoice changes,\ndry throat",
+      "ru": "Заложенность носа,\nзатрудненное дыхание,\nголовная боль,\nизменение голоса,\nсухость в горле"
+    },
+    "treatments": {
+      "az": "İlıq duzlu su ilə burun yuyulması,\nılıq buxar,\nnazal sprey,\nbolluca maye qəbul etmək,\nbasın yuxarıda saxlanması",
+      "tr": "Ilık tuzlu su ile burun yıkama,\nılık buhar,\nnazal sprey,\nbol sıvı tüketmek,\nbaş yukarıda tutulmalı",
+      "en": "Nasal rinse with warm saline,\nwarm steam,\nnasal spray,\ndrink plenty of fluids,\nkeep head elevated",
+      "ru": "Промывание носа теплым солевым раствором,\nтёплый пар,\nназальный спрей,\nпить много жидкости,\nдержать голову приподнятой"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/diseases/images/nasal_congestion.png",
+    "duration": {
+      "az": "1-2 gün",
+      "tr": "1-2 gün",
+      "en": "1-2 days",
+      "ru": "1-2 дня"
+    }
+  },
+  {
+    "id": 9,
+    "disease_name": {
+      "az": "Bədəndə Qaşınma",
+      "tr": "Vücutta Kaşıntı",
+      "en": "Body Itching",
+      "ru": "Зуд по телу"
+    },
+    "symptoms": {
+      "az": "Bədəndə qaşınma hissi,\ndəri üzərində qızartılar,\ndöküntü və ya yaralar ola bilər",
+      "tr": "Vücutta kaşıntı,\nciltte kızarıklık,\n döküntü veya yaralar olabilir",
+      "en": "Itching sensation on body,\nRedness on skin,\nRash or sores may appear",
+      "ru": "Чувство зуда по телу,\nПокраснение кожи,\nМогут появиться сыпь или язвы"
+    },
+    "treatments": {
+      "az": "Dəriyə nəm krem və ya losyon çəkmək,\nsoyuq kompres tətbiq etmək,\ntəbii bitki yağları (məsələn: aloe vera) istifadə etmək",
+      "tr": "Cilde nemlendirici krem veya losyon sürmek,\nsoğuk kompres uygulamak,\ndoğal bitki yağları kullanmak (ör. aloe vera)",
+      "en": "Apply moisturizing cream or lotion,\nUse cold compress,\nUse natural oils (e.g., aloe vera)",
+      "ru": "Наносить увлажняющий крем или лосьон,\nПрикладывать холодный компресс,\nИспользовать натуральные масла (например: алоэ вера)"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/diseases/images/body_itching.png",
+    "duration": {
+      "az": "Bir neçə gündən bir neçə həftəyə qədər",
+      "tr": "Birkaç günden birkaç haftaya kadar",
+      "en": "From a few days to a few weeks",
+      "ru": "От нескольких дней до нескольких недель"
+    }
+  },
+  {
+    "id": 10,
+    "disease_name": {
+      "az": "Diş Ağrısı",
+      "tr": "Diş Ağrısı",
+      "en": "Toothache",
+      "ru": "Зубная боль"
+    },
+    "symptoms": {
+      "az": "Dişin ətrafında ağrı,\nşişkinlik,\nisti və ya soyuq qidalara qarşı həssaslıq,\nçeynəmə zamanı ağrı",
+      "tr": "Diş çevresinde ağrı,\nşişlik,\nsıcak veya soğuk yiyeceklere karşı hassasiyet,\nçiğneme sırasında ağrı",
+      "en": "Pain around the tooth,\nSwelling,\nSensitivity to hot or cold foods,\nPain when chewing",
+      "ru": "Боль вокруг зуба,\nОтёк,\nЧувствительность к горячей или холодной пище,\nБоль при жевании"
+    },
+    "treatments": {
+      "az": "Dişi sərin su ilə yaxalamaq,\nağrıyan bölgəyə soyuq kompres tətbiq etmək,\ndiş ağrısına qarşı ağrı kəsicilər (paratsetamol) istifadə etmək",
+      "tr": "Dişi soğuk su ile çalkalamak,\nAğrıyan bölgeye soğuk kompres uygulamak,\nDiş ağrısı için ağrı kesiciler (parasetamol) kullanmak",
+      "en": "Rinse tooth with cold water,\nApply cold compress to painful area,\nUse painkillers (paracetamol) for toothache",
+      "ru": "Полоскать зуб холодной водой,\nПрикладывать холодный компресс к больному участку,\nИспользовать обезболивающие (парацетамол)"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/diseases/images/toothache.png",
+    "duration": {
+      "az": "Bir neçə saatdan bir neçə günə qədər",
+      "tr": "Birkaç saatten birkaç güne kadar",
+      "en": "From a few hours to a few days",
+      "ru": "От нескольких часов до нескольких дней"
+    }
+  },
+  {
+    "id": 11,
+    "disease_name": {
+      "az": "Soyuqdəymə",
+      "tr": "Soğuk Algınlığı",
+      "en": "Common Cold",
+      "ru": "Простуда"
+    },
+    "symptoms": {
+      "az": "Burun tıxanması,\nöskürək,\nboğaz ağrısı,\nyüngül baş ağrısı,\nhalsızlıq,\nvücudun istiliyinin artması",
+      "tr": "Burun tıkanması,\nöksürük,\nboğaz ağrısı,\nbaş ağrısı,\nyorgunluk,\nvücut ısısında artış",
+      "en": "Nasal congestion,\nCough,\nSore throat,\nMild ,\nFatigue,\nFever",
+      "ru": "Заложенность носа,\nКашель,\nБоль в горле,\nЛегкая головная боль,\nСлабость,\nПовышение температуры"
+    },
+    "treatments": {
+      "az": "Bol maye içmək,\nistirahət etmək,\nsoyuq kompres tətbiq etmək,\nboğazı duzlu su ilə yaxalamaq,\nöskürək üçün təbii bal və limon qarışığı istifadə etmək",
+      "tr": "Bol sıvı içmek,\nDinlenmek,\nSoğuk kompres uygulamak,\nBoğazı tuzlu su ile gargara yapmak,\nÖksürük için doğal bal ve limon karışımı kullanmak",
+      "en": "Drink plenty of fluids,\nRest,\nUse cold compress,\nGargle throat with salt water,\nUse natural honey and lemon for cough",
+      "ru": "Пить много жидкости,\nОтдыхать,\nПрикладывать холодный компресс,\nПолоскать горло соленой водой,\nИспользовать мед и лимон при кашле"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/diseases/images/common_cold.png",
+    "duration": {
+      "az": "Bir neçə gündən bir neçə həftəyə qədər",
+      "tr": "Birkaç günden birkaç haftaya kadar",
+      "en": "From a few days to a few weeks",
+      "ru": "От нескольких дней до нескольких недель"
+    }
+  },
+  {
+    "id": 12,
+    "disease_name": {
+      "az": "Yaralar",
+      "tr": "Yaralar",
+      "en": "Wounds",
+      "ru": "Раны"
+    },
+    "symptoms": {
+      "az": "Dəri üzərində kəsiklər,\nyırtıqlar və qanama,\nbəzi hallarda şişkinlik və ağrı",
+      "tr": "Ciltte kesikler,\nyırtıklar ve kanama,\nBazı durumlarda şişlik ve ağrı",
+      "en": "Cuts on the skin,\ntears and bleeding,\nSometimes swelling and pain",
+      "ru": "Порезы на коже,\nразрывы и кровотечение,\nИногда отёк и боль"
+    },
+    "treatments": {
+      "az": "Yaralı bölgəni təmiz su ilə yumaq,\nantiseptiklə təmizləmək,\nyara bandı ilə örtmək,\nlazımi hallarda tibbi yardım almaq",
+      "tr": "Yaralı bölgeyi temiz su ile yıkamak,\nantiseptik ile temizlemek,\nyara bandı ile örtmek,\nGerekirse tıbbi yardım almak",
+      "en": "Wash wound with clean water,\nClean with antiseptic,\nCover with bandage,\nSeek medical help if necessary",
+      "ru": "Промывать рану чистой водой,\nОбрабатывать антисептиком,\nЗакрыть повязкой,\nПри необходимости обратиться за медицинской помощью"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/diseases/images/wounds.png",
+    "duration": {
+      "az": "Bir neçə gündən bir neçə həftəyə qədər",
+      "tr": "Birkaç günden birkaç haftaya kadar",
+      "en": "From a few days to a few weeks",
+      "ru": "От нескольких дней до нескольких недель"
+    }
+  },
+  {
+    "id": 13,
+    "disease_name": {
+      "az": "Qaraciyər Ağrısı",
+      "tr": "Karaciğer Ağrısı",
+      "en": "Liver Pain",
+      "ru": "Боль в печени"
+    },
+    "symptoms": {
+      "az": "Sağ tərəfdəki qabırğa altı ağrı,\nbulanıq iştaha,\nürəkbulanma,\nyorğunluq,\nsarılıq (deri və gözlərdə),\nsidik rənginin qaranlıq olması",
+      "tr": "Sağ tarafta kaburga altı ağrı,\nBulanık iştah,\nMide bulantısı,\nYorgunluk,\nSarılık (cilt ve gözlerde),\nİdrar renginin koyulaşması",
+      "en": "Pain under right ribs,\nLoss of appetite,\nNausea,\nFatigue,\nJaundice (skin and eyes),\nDark urine",
+      "ru": "Боль под правыми ребрами,\nПотеря аппетита,\nТошнота,\nУсталость,\nЖелтуха (кожа и глаза),\nТемная моча"
+    },
+    "treatments": {
+      "az": "Ağrı kəsicilərdən (paratsetamol) istifadə etməmək,\ndaha çox su içmək,\nsağlam qidalanmaq,\nalkoqol və siqaretdən uzaq durmaq,\nhəkimə müraciət etmək",
+      "tr": "Ağrı kesiciler (parasetamol) kullanmamak,\nDaha fazla su içmek,\nSağlıklı beslenmek,\nAlkol ve sigaradan uzak durmak,\nDoktora başvurmak",
+      "en": "Avoid painkillers (paracetamol),\nDrink more water,\nEat healthy,\nAvoid alcohol and smoking,\nConsult a doctor",
+      "ru": "Не использовать обезболивающие (парацетамол),\nПить больше воды,\nПравильно питаться,\nИзбегать алкоголя и курения,\nОбратиться к врачу"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/diseases/images/liver_pain.png",
+    "duration": {
+      "az": "Bir neçə saatdan bir neçə günə qədər",
+      "tr": "Birkaç saatten birkaç güne kadar",
+      "en": "From a few hours to a few days",
+      "ru": "От нескольких часов до нескольких дней"
+    }
+  },
+  {
+    "id": 14,
+    "disease_name": {
+      "az": "Böyrək Ağrısı",
+      "tr": "Böbrek Ağrısı",
+      "en": "Kidney Pain",
+      "ru": "Боль в почках"
+    },
+    "symptoms": {
+      "az": "Ağrı aşağı beldə, qarın bölgəsinin yanlarında və ya qasıq sahəsində,\nsidikdə qan,\nşişkinlik,\nnarahatlıq,\nürəkbulanma",
+      "tr": "Ağrı belde, karın yanlarında veya kasıkta,\nİdrarda kan,\nŞişlik,\nRahatsızlık,\nMide bulantısı",
+      "en": "Pain in lower back, sides of abdomen or groin,\nBlood in urine,\nSwelling,\nDiscomfort,\nNausea",
+      "ru": "Боль в пояснице, по бокам живота или в паху,\nКровь в моче,\nОтёк,\nДискомфорт,\nТошнота"
+    },
+    "treatments": {
+      "az": "Bol su içmək,\nağrılı bölgəyə isti kompres tətbiq etmək,\nduzlu və yağlı qidalardan çəkinmək,\nböyrək funksiyasını izləmək üçün həkimə müraciət etmək",
+      "tr": "Bol su içmek,\nAğrılı bölgeye sıcak kompres uygulamak,\nTuzlu ve yağlı yiyeceklerden kaçınmak,\nBöbrek fonksiyonlarını takip için doktora başvurmak",
+      "en": "Drink plenty of water,\nApply warm compress to painful area,\nAvoid salty and fatty foods,\nConsult doctor to monitor kidney function",
+      "ru": "Пить много воды,\nПрикладывать тёплый компресс к больной области,\nИзбегать солёной и жирной пищи,\nОбратиться к врачу для контроля функции почек"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/diseases/images/kidney_pain.png",
+    "duration": {
+      "az": "Bir neçə saatdan bir neçə günə qədər",
+      "tr": "Birkaç saatten birkaç güne kadar",
+      "en": "From a few hours to a few days",
+      "ru": "От нескольких часов до нескольких дней"
+    }
+  },
+  {
+    "id": 15,
+    "disease_name": {
+      "az": "Boğaz Şişkinliyi",
+      "tr": "Boğaz Şişliği",
+      "en": "Throat Swelling",
+      "ru": "Отёк горла"
+    },
+    "symptoms": {
+      "az": "Boğazda ağrı,\nyutkunarkən çətinlik,\nboğazda yanma hissi,\nsəsdə dəyişiklik,\nboğazda şişlik və ya qızartı",
+      "tr": "Boğazda ağrı,\nYutkunmada zorluk,\nBoğazda yanma hissi,\nSes değişikliği,\nBoğazda şişlik veya kızarıklık",
+      "en": "Throat pain,\nDifficulty swallowing,\nBurning sensation in throat,\nVoice changes,\nSwelling or redness in throat",
+      "ru": "Боль в горле,\nТрудности при глотании,\nЖжение в горле,\nИзменение голоса,\nОтёк или покраснение горла"
+    },
+    "treatments": {
+      "az": "Ilıq su ilə qarqara etmək,\nduzlu su ilə yaxalamaq,\nboğazı nəmləndirmək üçün bal və limonlu su içmək,\nisti içkilərdən çəkinmək",
+      "tr": "Ilık su ile gargara yapmak,\nTuzlu su ile gargara yapmak,\nBoğazı nemlendirmek için bal ve limonlu su içmek,\nSıcak içeceklerden kaçınmak",
+      "en": "Gargle with warm water,\nGargle with salt water,\nDrink honey and lemon water to moisten throat,\nAvoid hot drinks",
+      "ru": "Полоскать тёплой водой,\nПолоскать солёной водой,\nПить мед с лимоном для увлажнения горла,\nИзбегать горячих напитков"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/diseases/images/throat_swelling.png",
+    "duration": {
+      "az": "Bir neçə saatdan bir neçə günə qədər",
+      "tr": "Birkaç saatten birkaç güne kadar",
+      "en": "From a few hours to a few days",
+      "ru": "От нескольких часов до нескольких дней"
+    }
+  },
+  {
+    "id": 16,
+    "disease_name": {
+      "az": "Qulaq Ağrısı",
+      "tr": "Kulak Ağrısı",
+      "en": "Earache",
+      "ru": "Боль в ухе"
+    },
+    "symptoms": {
+      "az": "Qulaqda ağrı,\nqulaqdan su və ya irin axması,\neşitmə itməsi,\nqulaqda təzyiq hissi,\nbaş dönməsi",
+      "tr": "Kulakta ağrı,\nKulaktan sıvı veya irin gelmesi,\nİşitme kaybı,\nKulakta basınç hissi,\nBaş dönmesi",
+      "en": "Ear pain,\nFluid or pus from ear,\nHearing loss,\nPressure in ear,\nDizziness",
+      "ru": "Боль в ухе,\nВыделения из уха (жидкость или гной),\nПотеря слуха,\nЧувство давления в ухе,\nГоловокружение"
+    },
+    "treatments": {
+      "az": "Qulağa isti kompres tətbiq etmək,\niliq su ilə qulaq təmizləmək,\nağrı kəsicilərdən istifadə etmək (paratsetamol),\nqulağı soyuqdan qorumaq",
+      "tr": "Kulaga sıcak kompres uygulamak,\nIlık su ile kulak temizlemek,\nAğrı kesici (parasetamol) kullanmak,\nKulağı soğuktan korumak",
+      "en": "Apply warm compress to ear,\nClean ear with warm water,\nUse painkillers (paracetamol),\nProtect ear from cold",
+      "ru": "Прикладывать тёплый компресс к уху,\nЧистить ухо тёплой водой,\nИспользовать обезболивающее (парацетамол),\nЗащищать ухо от холода"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/diseases/images/earache.png",
+    "duration": {
+      "az": "Bir neçə saatdan bir neçə günə qədər",
+      "tr": "Birkaç saatten birkaç güne kadar",
+      "en": "From a few hours to a few days",
+      "ru": "От нескольких часов до нескольких дней"
+    }
+  },
+  {
+    "id": 17,
+    "disease_name": {
+      "az": "Üzdə Səpki",
+      "tr": "Yüz Döküntüsü",
+      "en": "Facial Rash",
+      "ru": "Сыпь на лице"
+    },
+    "symptoms": {
+      "az": "Üzdə qızartı,\nbərəlmiş və ya qaşıntılı ləkələr,\ndəridə quruluq,\nnarahatlıq hissi,\nbəzən şişkinlik",
+      "tr": "Yüzde kızarıklık,\nKabuklanmış veya kaşıntılı lekeler,\nCiltte kuruluk,\nRahatsızlık hissi,\nBazen şişlik",
+      "en": "Redness on face,\nScaly or itchy spots,\nDry skin,\nDiscomfort,\nSometimes swelling",
+      "ru": "Покраснение на лице,\nКорки или зудящие пятна,\nСухость кожи,\nДискомфорт,\nИногда отёк"
+    },
+    "treatments": {
+      "az": "Ilıq su ilə üz yumaq,\nnemlendirici kremlərdən istifadə etmək,\nüzə soyuq kompres tətbiq etmək,\nqıcıqlandırıcı maddələrdən çəkinmək",
+      "tr": "Ilık su ile yüz yıkamak,\nNemlendirici krem kullanmak,\nYüze soğuk kompres uygulamak,\nTahriş edici maddelerden kaçınmak",
+      "en": "Wash face with warm water,\nUse moisturizer,\nApply cold compress to face,\nAvoid irritating substances",
+      "ru": "Умываться тёплой водой,\nИспользовать увлажняющий крем,\nПрикладывать холодный компресс,\nИзбегать раздражающих веществ"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/diseases/images/facial_rash.png",
+    "duration": {
+      "az": "Bir neçə gündən bir neçə həftəyə qədər",
+      "tr": "Birkaç günden birkaç haftaya kadar",
+      "en": "From a few days to a few weeks",
+      "ru": "От нескольких дней до нескольких недель"
+    }
+  },
+  {
+    "id": 18,
+    "disease_name": {
+      "az": "Sinə Ağrısı",
+      "tr": "Göğüs Ağrısı",
+      "en": "Chest Pain",
+      "ru": "Боль в груди"
+    },
+    "symptoms": {
+      "az": "Sinədə sıxılma,\nağrı və ya narahatlıq hissi,\nnəfəs almaqda çətinlik,\nürək döyüntüsündə artım,\nbəzən əllərdə, boyunda və ya çənədə ağrı",
+      "tr": "Göğüste sıkışma,\nAğrı veya rahatsızlık,\nNefes almakta zorluk,\nKalp atışında artış,\nBazen ellerde, boyunda veya çenede ağrı",
+      "en": "Pressure in chest,\nPain or discomfort,\nDifficulty breathing,\nIncreased heartbeat,\nSometimes pain in arms, neck, or jaw",
+      "ru": "Сжатие в груди,\nБоль или дискомфорт,\nТрудности с дыханием,\nУчащённое сердцебиение,\nИногда боль в руках, шее или челюсти"
+    },
+    "treatments": {
+      "az": "Dərin nəfəs almaq,\nistirahət etmək,\nsərin mühitdə olmaq,\nağrı kəsicilər (paratsetamol) istifadə etmək",
+      "tr": "Derin nefes almak,\nDinlenmek,\nSerin ortamda bulunmak,\nAğrı kesici (parasetamol) kullanmak",
+      "en": "Take deep breaths,\nRest,\nBe in a cool environment,\nUse painkillers (paracetamol)",
+      "ru": "Глубоко дышать,\nОтдыхать,\nНаходиться в прохладной среде,\nИспользовать обезболивающие (парацетамол)"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/diseases/images/chest_pain.png",
+    "duration": {
+      "az": "Bir neçə gündən bir neçə həftəyə qədər",
+      "tr": "Birkaç günden birkaç haftaya kadar",
+      "en": "From a few days to a few weeks",
+      "ru": "От нескольких дней до нескольких недель"
+    }
+  },
+  {
+    "id": 19,
+    "disease_name": {
+      "az": "Baş Dönməsi",
+      "tr": "Baş Dönmesi",
+      "en": "Dizziness",
+      "ru": "Головокружение"
+    },
+    "symptoms": {
+      "az": "Başın gicəllənməsi,\nyerə yaxın hiss etmə,\nbalans itirilməsi,\nbulanıq görmə,\nqulaqlarda uğultu",
+      "tr": "Baş dönmesi,\nYere yakın hissetme,\nDenge kaybı,\nBulanık görme,\nKulaklarda uğultu",
+      "en": "Feeling dizzy,\nSensation of being close to the ground,\nLoss of balance,\nBlurred vision,\nRinging in ears",
+      "ru": "Головокружение,\nОщущение падения,\nПотеря равновесия,\nНечеткое зрение,\nШум в ушах"
+    },
+    "treatments": {
+      "az": "Yavaşca oturmaq və ya uzanmaq,\nbol maye qəbul etmək,\nqidalanmanı tənzimləmək,\nstresdən uzaq durmaq",
+      "tr": "Yavaşça oturmak veya uzanmak,\nBol su içmek,\nBeslenmeyi düzenlemek,\nStresten uzak durmak",
+      "en": "Sit or lie down slowly,\nDrink plenty of fluids,\nAdjust diet,\nAvoid stress",
+      "ru": "Сесть или лечь медленно,\nПить много жидкости,\nРегулировать питание,\nИзбегать стресса"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/diseases/images/dizziness.png",
+    "duration": {
+      "az": "Bir neçə dəqiqədən bir neçə saata qədər",
+      "tr": "Birkaç dakikadan birkaç saate kadar",
+      "en": "From a few minutes to a few hours",
+      "ru": "От нескольких минут до нескольких часов"
+    }
+  },
+  {
+    "id": 20,
+    "disease_name": {
+      "az": "İştahsızlıq",
+      "tr": "İştahsızlık",
+      "en": "Loss of Appetite",
+      "ru": "Потеря аппетита"
+    },
+    "symptoms": {
+      "az": "Yemək yemək istəməmək,\ndaim yüngül mədə narahatlığı,\nyorğunluq,\n qida görə həssaslıq",
+      "tr": "Yemek yemek istememe,\nSürekli hafif mide rahatsızlığı,\nYorgunluk,\nGıdalara karşı hassasiyet",
+      "en": "Lack of desire to eat,\nPersistent mild stomach discomfort,\nFatigue,\nFood sensitivity",
+      "ru": "Отсутствие желания есть,\nПостоянный лёгкий дискомфорт в желудке,\nУсталость,\nЧувствительность к еде"
+    },
+    "treatments": {
+      "az": "Kiçik və tez-tez yeməklər yemək,\nQidaların təravətli və dadlı olmasına diqqət etmək,\nSu içmək,\nStresdən uzaq durmaq",
+      "tr": "Küçük ve sık öğünler yemek,\nYiyeceklerin taze ve lezzetli olmasına dikkat etmek,\nSu içmek,\nStresten uzak durmak",
+      "en": "Eat small, frequent meals,\nFocus on fresh and tasty foods,\nDrink water,\nAvoid stress",
+      "ru": "Есть маленькими порциями и часто,\nСосредоточиться на свежей и вкусной пище,\nПить воду,\nИзбегать стресса"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data-/diseases/images/loss_of_appetite.png",
+    "duration": {
+      "az": "Bir neçə gündən bir neçə həftəyə qədər",
+      "tr": "Birkaç günden birkaç haftaya kadar",
+      "en": "From a few days to a few weeks",
+      "ru": "От нескольких дней до нескольких недель"
+    }
+  },
+  {
+    "id": 21,
+    "disease_name": {
+      "az": "Baş Ağrısı",
+      "tr": "Baş Ağrısı",
+      "en": "",
+      "ru": "Головная боль"
+    },
+    "symptoms": {
+      "az": "Başda sıxıntı,\nbaşın müxtəlif hissələrində ağrı",
+      "tr": "Başta sıkıntı,\nbaşın çeşitli bölgelerinde ağrı",
+      "en": "Pressure in the head,\nPain in different parts of the head",
+      "ru": "Давление в голове,\nБоль в разных частях головы"
+    },
+    "treatments": {
+      "az": "İstirahət etmək,\nBol su içmək,\nAğrı kəsici qəbul etmək",
+      "tr": "Dinlenmek,\nBol su içmek,\nAğrı kesici almak",
+      "en": "Rest,\nDrink plenty of water,\nTake painkillers",
+      "ru": "Отдых,\nПить много воды,\nПринимать обезболивающие"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data/diseases/images/headache.png",
+    "duration": {
+      "az": "Qısa müddətli",
+      "tr": "Kısa süreli",
+      "en": "Short-term",
+      "ru": "Краткосрочное"
+    }
+  },
+  {
+    "id": 22,
+    "disease_name": {
+      "az": "Öskürək",
+      "tr": "Öksürük",
+      "en": "Cough",
+      "ru": "Кашель"
+    },
+    "symptoms": {
+      "az": "Sürekli öskürək,\nboğazda qıcıqlanma",
+      "tr": "Sürekli öksürük,\nboğazda tahriş",
+      "en": "Persistent cough,\nThroat irritation",
+      "ru": "Постоянный кашель,\nРаздражение в горле"
+    },
+    "treatments": {
+      "az": "İsti su içmək,\nhava nəmləndirici istifadə etmək,\nbal yemək",
+      "tr": "Sıcak su içmek,\nHava nemlendirici kullanmak,\nBal yemek",
+      "en": "Drink warm water,\nUse a humidifier,\nConsume honey",
+      "ru": "Пить тёплую воду,\nИспользовать увлажнитель,\nЕсть мёд"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data/diseases/images/cough.png",
+    "duration": {
+      "az": "Qısa müddətli",
+      "tr": "Kısa süreli",
+      "en": "Short-term",
+      "ru": "Краткосрочное"
+    }
+  },
+  {
+    "id": 23,
+    "disease_name": {
+      "az": "Halsızlıq",
+      "tr": "Yorgunluk",
+      "en": "Weakness",
+      "ru": "Слабость"
+    },
+    "symptoms": {
+      "az": "Enerji itkisi,\ntez yorulma",
+      "tr": "Enerji kaybı,\nHızlı yorulma",
+      "en": "Loss of energy,\nEasily tired",
+      "ru": "Потеря энергии,\nБыстрая утомляемость"
+    },
+    "treatments": {
+      "az": "Yaxşı istirahət etmək,\nSağlam qidalanmaq,\nGündəlik yüngül məşqlər",
+      "tr": "İyi dinlenmek,\nSağlıklı beslenmek,\nGünlük hafif egzersiz",
+      "en": "Get proper rest,\nEat healthy,\nLight daily exercise",
+      "ru": "Хорошо отдыхать,\nЗдоровое питание,\nЛёгкие ежедневные упражнения"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data/diseases/images/weakness.png",
+    "duration": {
+      "az": "Qısa və uzun müddətli ola bilər",
+      "tr": "Kısa ve uzun süreli olabilir",
+      "en": "Can be short-term or long-term",
+      "ru": "Может быть краткосрочным или долгосрочным"
+    }
+  },
+  {
+    "id": 24,
+    "disease_name": {
+      "az": "Mədə Ağrısı",
+      "tr": "Mide Ağrısı",
+      "en": "Stomach Pain",
+      "ru": "Боль в желудке"
+    },
+    "symptoms": {
+      "az": "Mədədə narahatlıq, şişkinlik, qusma",
+      "tr": "Mide rahatsızlığı, şişkinlik, kusma",
+      "en": "Stomach discomfort, bloating, vomiting",
+      "ru": "Дискомфорт в желудке, вздутие, рвота"
+    },
+    "treatments": {
+      "az": "Yüngül qidalanmaq, su içmək, isti kompres",
+      "tr": "Hafif beslenmek, su içmek, sıcak kompres",
+      "en": "Eat light, drink water, apply warm compress",
+      "ru": "Легкая диета, пить воду, теплый компресс"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/RuslanGuseinov02/health-data/diseases/images/abdominal_pain.png",
+    "duration": {
+      "az": "Qısa müddətli",
+      "tr": "Kısa süreli",
+      "en": "Short-term",
+      "ru": "Кратковременный"
+    }
   }
 ]
